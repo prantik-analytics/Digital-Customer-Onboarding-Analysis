@@ -1,0 +1,501 @@
+Customer_id,Age,Occupation,Annual_income,State,City,Region,Device_type,Existing_customer
+C0001,19,Salaried,203500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0002,20,Salaried,207000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0003,21,Salaried,210500.00,Assam,Guwahati,Metro,Andriod,No
+C0004,22,Salaried,214000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0005,23,Salaried,217500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0006,24,Salaried,221000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0007,25,Salaried,224500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0008,26,Salaried,228000.00,Assam,Guwahati,Rural,Deskstop,No
+C0009,27,Salaried,231500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0010,28,Salaried,235000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0011,29,Salaried,238500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0012,30,Salaried,242000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0013,31,Salaried,245500.00,Assam,Guwahati,Tier2,Iphone,No
+C0014,32,Salaried,249000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0015,33,Salaried,252500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0016,34,Salaried,256000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0017,35,Salaried,259500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0018,36,Salaried,263000.00,Assam,Guwahati,Metro,Andriod,No
+C0019,37,Salaried,266500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0020,38,Salaried,270000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0021,39,Salaried,273500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0022,40,Salaried,277000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0023,41,Salaried,280500.00,Assam,Guwahati,Rural,Deskstop,No
+C0024,42,Salaried,284000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0025,43,Salaried,287500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0026,44,Salaried,291000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0027,45,Salaried,294500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0028,46,Salaried,298000.00,Assam,Guwahati,Tier2,Iphone,No
+C0029,47,Salaried,301500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0030,48,Salaried,305000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0031,49,Salaried,308500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0032,50,Salaried,312000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0033,51,Salaried,315500.00,Assam,Guwahati,Metro,Andriod,No
+C0034,52,Salaried,319000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0035,53,Salaried,322500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0036,54,Salaried,326000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0037,55,Salaried,329500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0038,56,Salaried,333000.00,Assam,Guwahati,Rural,Deskstop,No
+C0039,57,Salaried,336500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0040,58,Salaried,340000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0041,59,Salaried,343500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0042,60,Salaried,347000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0043,18,Salaried,350500.00,Assam,Guwahati,Tier2,Iphone,No
+C0044,19,Salaried,354000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0045,20,Salaried,357500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0046,21,Salaried,361000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0047,22,Salaried,364500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0048,23,Salaried,368000.00,Assam,Guwahati,Metro,Andriod,No
+C0049,24,Salaried,371500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0050,25,Salaried,375000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0051,26,Salaried,378500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0052,27,Salaried,382000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0053,28,Salaried,385500.00,Assam,Guwahati,Rural,Deskstop,No
+C0054,29,Salaried,389000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0055,30,Salaried,392500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0056,31,Salaried,396000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0057,32,Salaried,399500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0058,33,Salaried,403000.00,Assam,Guwahati,Tier2,Iphone,No
+C0059,34,Salaried,406500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0060,35,Salaried,410000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0061,36,Salaried,413500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0062,37,Salaried,417000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0063,38,Salaried,420500.00,Assam,Guwahati,Metro,Andriod,No
+C0064,39,Salaried,424000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0065,40,Salaried,427500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0066,41,Salaried,431000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0067,42,Salaried,434500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0068,43,Salaried,438000.00,Assam,Guwahati,Rural,Deskstop,No
+C0069,44,Salaried,441500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0070,45,Salaried,445000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0071,46,Salaried,448500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0072,47,Salaried,452000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0073,48,Salaried,455500.00,Assam,Guwahati,Tier2,Iphone,No
+C0074,49,Salaried,459000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0075,50,Salaried,462500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0076,51,Salaried,466000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0077,52,Salaried,469500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0078,53,Salaried,473000.00,Assam,Guwahati,Metro,Andriod,No
+C0079,54,Salaried,476500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0080,55,Salaried,480000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0081,56,Salaried,483500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0082,57,Salaried,487000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0083,58,Salaried,490500.00,Assam,Guwahati,Rural,Deskstop,No
+C0084,59,Salaried,494000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0085,60,Salaried,497500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0086,18,Salaried,501000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0087,19,Salaried,504500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0088,20,Salaried,508000.00,Assam,Guwahati,Tier2,Iphone,No
+C0089,21,Salaried,511500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0090,22,Salaried,515000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0091,23,Salaried,518500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0092,24,Salaried,522000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0093,25,Salaried,525500.00,Assam,Guwahati,Metro,Andriod,No
+C0094,26,Salaried,529000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0095,27,Salaried,532500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0096,28,Salaried,536000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0097,29,Salaried,539500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0098,30,Salaried,543000.00,Assam,Guwahati,Rural,Deskstop,No
+C0099,31,Salaried,546500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0100,32,Salaried,550000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0101,33,Salaried,553500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0102,34,Salaried,557000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0103,35,Salaried,560500.00,Assam,Guwahati,Tier2,Iphone,No
+C0104,36,Salaried,564000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0105,37,Salaried,567500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0106,38,Salaried,571000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0107,39,Salaried,574500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0108,40,Salaried,578000.00,Assam,Guwahati,Metro,Andriod,No
+C0109,41,Salaried,581500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0110,42,Salaried,585000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0111,43,Salaried,588500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0112,44,Salaried,592000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0113,45,Salaried,595500.00,Assam,Guwahati,Rural,Deskstop,No
+C0114,46,Salaried,599000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0115,47,Salaried,602500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0116,48,Salaried,606000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0117,49,Salaried,609500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0118,50,Salaried,613000.00,Assam,Guwahati,Tier2,Iphone,No
+C0119,51,Salaried,616500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0120,52,Salaried,620000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0121,53,Salaried,623500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0122,54,Salaried,627000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0123,55,Salaried,630500.00,Assam,Guwahati,Metro,Andriod,No
+C0124,56,Salaried,634000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0125,57,Salaried,637500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0126,58,Salaried,641000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0127,59,Salaried,644500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0128,60,Salaried,648000.00,Assam,Guwahati,Rural,Deskstop,No
+C0129,18,Salaried,651500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0130,19,Salaried,655000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0131,20,Salaried,658500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0132,21,Salaried,662000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0133,22,Salaried,665500.00,Assam,Guwahati,Tier2,Iphone,No
+C0134,23,Salaried,669000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0135,24,Salaried,672500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0136,25,Salaried,676000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0137,26,Salaried,679500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0138,27,Salaried,683000.00,Assam,Guwahati,Metro,Andriod,No
+C0139,28,Salaried,686500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0140,29,Salaried,690000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0141,30,Salaried,693500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0142,31,Salaried,697000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0143,32,Salaried,700500.00,Assam,Guwahati,Rural,Deskstop,No
+C0144,33,Salaried,704000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0145,34,Salaried,707500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0146,35,Salaried,711000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0147,36,Salaried,714500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0148,37,Salaried,718000.00,Assam,Guwahati,Tier2,Iphone,No
+C0149,38,Salaried,721500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0150,39,Salaried,725000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0151,40,Salaried,728500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0152,41,Salaried,732000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0153,42,Salaried,735500.00,Assam,Guwahati,Metro,Andriod,No
+C0154,43,Salaried,739000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0155,44,Salaried,742500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0156,45,Salaried,746000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0157,46,Salaried,749500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0158,47,Salaried,753000.00,Assam,Guwahati,Rural,Deskstop,No
+C0159,48,Salaried,756500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0160,49,Salaried,760000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0161,50,Salaried,763500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0162,51,Salaried,767000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0163,52,Salaried,770500.00,Assam,Guwahati,Tier2,Iphone,No
+C0164,53,Salaried,774000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0165,54,Salaried,777500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0166,55,Salaried,781000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0167,56,Salaried,784500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0168,57,Salaried,788000.00,Assam,Guwahati,Metro,Andriod,No
+C0169,58,Salaried,791500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0170,59,Salaried,795000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0171,60,Salaried,798500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0172,18,Salaried,802000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0173,19,Salaried,805500.00,Assam,Guwahati,Rural,Deskstop,No
+C0174,20,Salaried,809000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0175,21,Salaried,812500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0176,22,Salaried,816000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0177,23,Salaried,819500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0178,24,Salaried,823000.00,Assam,Guwahati,Tier2,Iphone,No
+C0179,25,Salaried,826500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0180,26,Salaried,830000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0181,27,Salaried,833500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0182,28,Salaried,837000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0183,29,Salaried,840500.00,Assam,Guwahati,Metro,Andriod,No
+C0184,30,Salaried,844000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0185,31,Salaried,847500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0186,32,Salaried,851000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0187,33,Salaried,854500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0188,34,Salaried,858000.00,Assam,Guwahati,Rural,Deskstop,No
+C0189,35,Salaried,861500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0190,36,Salaried,865000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0191,37,Salaried,868500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0192,38,Salaried,872000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0193,39,Salaried,875500.00,Assam,Guwahati,Tier2,Iphone,No
+C0194,40,Salaried,879000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0195,41,Salaried,882500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0196,42,Salaried,886000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0197,43,Salaried,889500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0198,44,Salaried,893000.00,Assam,Guwahati,Metro,Andriod,No
+C0199,45,Salaried,896500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0200,46,Salaried,900000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0201,47,Student,903500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0202,48,Student,907000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0203,49,Student,910500.00,Assam,Guwahati,Rural,Deskstop,No
+C0204,50,Student,914000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0205,51,Student,917500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0206,52,Student,921000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0207,53,Student,924500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0208,54,Student,928000.00,Assam,Guwahati,Tier2,Iphone,No
+C0209,55,Student,931500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0210,56,Student,935000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0211,57,Student,938500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0212,58,Student,942000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0213,59,Student,945500.00,Assam,Guwahati,Metro,Andriod,No
+C0214,60,Student,949000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0215,18,Student,952500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0216,19,Student,956000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0217,20,Student,959500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0218,21,Student,963000.00,Assam,Guwahati,Rural,Deskstop,No
+C0219,22,Student,966500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0220,23,Student,970000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0221,24,Student,973500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0222,25,Student,977000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0223,26,Student,980500.00,Assam,Guwahati,Tier2,Iphone,No
+C0224,27,Student,984000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0225,28,Student,987500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0226,29,Student,991000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0227,30,Student,994500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0228,31,Student,998000.00,Assam,Guwahati,Metro,Andriod,No
+C0229,32,Student,1001500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0230,33,Student,1005000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0231,34,Student,1008500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0232,35,Student,1012000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0233,36,Student,1015500.00,Assam,Guwahati,Rural,Deskstop,No
+C0234,37,Student,1019000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0235,38,Student,1022500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0236,39,Student,1026000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0237,40,Student,1029500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0238,41,Student,1033000.00,Assam,Guwahati,Tier2,Iphone,No
+C0239,42,Student,1036500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0240,43,Student,1040000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0241,44,Student,1043500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0242,45,Student,1047000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0243,46,Student,1050500.00,Assam,Guwahati,Metro,Andriod,No
+C0244,47,Student,1054000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0245,48,Student,1057500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0246,49,Student,1061000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0247,50,Student,1064500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0248,51,Student,1068000.00,Assam,Guwahati,Rural,Deskstop,No
+C0249,52,Student,1071500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0250,53,Student,1075000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0251,54,Student,1078500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0252,55,Student,1082000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0253,56,Student,1085500.00,Assam,Guwahati,Tier2,Iphone,No
+C0254,57,Student,1089000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0255,58,Student,1092500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0256,59,Student,1096000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0257,60,Student,1099500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0258,18,Student,1103000.00,Assam,Guwahati,Metro,Andriod,No
+C0259,19,Student,1106500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0260,20,Student,1110000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0261,21,Student,1113500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0262,22,Student,1117000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0263,23,Student,1120500.00,Assam,Guwahati,Rural,Deskstop,No
+C0264,24,Student,1124000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0265,25,Student,1127500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0266,26,Student,1131000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0267,27,Student,1134500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0268,28,Student,1138000.00,Assam,Guwahati,Tier2,Iphone,No
+C0269,29,Student,1141500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0270,30,Student,1145000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0271,31,Student,1148500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0272,32,Student,1152000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0273,33,Student,1155500.00,Assam,Guwahati,Metro,Andriod,No
+C0274,34,Student,1159000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0275,35,Student,1162500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0276,36,Student,1166000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0277,37,Student,1169500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0278,38,Student,1173000.00,Assam,Guwahati,Rural,Deskstop,No
+C0279,39,Student,1176500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0280,40,Student,1180000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0281,41,"Self Employed",1183500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0282,42,"Self Employed",1187000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0283,43,"Self Employed",1190500.00,Assam,Guwahati,Tier2,Iphone,No
+C0284,44,"Self Employed",1194000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0285,45,"Self Employed",1197500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0286,46,"Self Employed",1201000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0287,47,"Self Employed",1204500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0288,48,"Self Employed",1208000.00,Assam,Guwahati,Metro,Andriod,No
+C0289,49,"Self Employed",1211500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0290,50,"Self Employed",1215000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0291,51,"Self Employed",1218500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0292,52,"Self Employed",1222000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0293,53,"Self Employed",1225500.00,Assam,Guwahati,Rural,Deskstop,No
+C0294,54,"Self Employed",1229000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0295,55,"Self Employed",1232500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0296,56,"Self Employed",1236000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0297,57,"Self Employed",1239500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0298,58,"Self Employed",1243000.00,Assam,Guwahati,Tier2,Iphone,No
+C0299,59,"Self Employed",1246500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0300,60,"Self Employed",1250000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0301,18,"Self Employed",1253500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0302,19,"Self Employed",1257000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0303,20,"Self Employed",1260500.00,Assam,Guwahati,Metro,Andriod,No
+C0304,21,"Self Employed",1264000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0305,22,"Self Employed",1267500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0306,23,"Self Employed",1271000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0307,24,"Self Employed",1274500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0308,25,"Self Employed",1278000.00,Assam,Guwahati,Rural,Deskstop,No
+C0309,26,"Self Employed",1281500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0310,27,"Self Employed",1285000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0311,28,"Self Employed",1288500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0312,29,"Self Employed",1292000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0313,30,"Self Employed",1295500.00,Assam,Guwahati,Tier2,Iphone,No
+C0314,31,"Self Employed",1299000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0315,32,"Self Employed",1302500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0316,33,"Self Employed",1306000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0317,34,"Self Employed",1309500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0318,35,"Self Employed",1313000.00,Assam,Guwahati,Metro,Andriod,No
+C0319,36,"Self Employed",1316500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0320,37,"Self Employed",1320000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0321,38,"Self Employed",1323500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0322,39,"Self Employed",1327000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0323,40,"Self Employed",1330500.00,Assam,Guwahati,Rural,Deskstop,No
+C0324,41,"Self Employed",1334000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0325,42,"Self Employed",1337500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0326,43,"Self Employed",1341000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0327,44,"Self Employed",1344500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0328,45,"Self Employed",1348000.00,Assam,Guwahati,Tier2,Iphone,No
+C0329,46,"Self Employed",1351500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0330,47,"Self Employed",1355000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0331,48,"Self Employed",1358500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0332,49,"Self Employed",1362000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0333,50,"Self Employed",1365500.00,Assam,Guwahati,Metro,Andriod,No
+C0334,51,"Self Employed",1369000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0335,52,"Self Employed",1372500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0336,53,"Self Employed",1376000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0337,54,"Self Employed",1379500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0338,55,"Self Employed",1383000.00,Assam,Guwahati,Rural,Deskstop,No
+C0339,56,"Self Employed",1386500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0340,57,"Self Employed",1390000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0341,58,"Self Employed",1393500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0342,59,"Self Employed",1397000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0343,60,"Self Employed",1400500.00,Assam,Guwahati,Tier2,Iphone,No
+C0344,18,"Self Employed",1404000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0345,19,"Self Employed",1407500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0346,20,"Self Employed",1411000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0347,21,"Self Employed",1414500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0348,22,"Self Employed",1418000.00,Assam,Guwahati,Metro,Andriod,No
+C0349,23,"Self Employed",1421500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0350,24,"Self Employed",1425000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0351,25,Business,1428500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0352,26,Business,1432000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0353,27,Business,1435500.00,Assam,Guwahati,Rural,Deskstop,No
+C0354,28,Business,1439000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0355,29,Business,1442500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0356,30,Business,1446000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0357,31,Business,1449500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0358,32,Business,1453000.00,Assam,Guwahati,Tier2,Iphone,No
+C0359,33,Business,1456500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0360,34,Business,1460000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0361,35,Business,1463500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0362,36,Business,1467000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0363,37,Business,1470500.00,Assam,Guwahati,Metro,Andriod,No
+C0364,38,Business,1474000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0365,39,Business,1477500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0366,40,Business,1481000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0367,41,Business,1484500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0368,42,Business,1488000.00,Assam,Guwahati,Rural,Deskstop,No
+C0369,43,Business,1491500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0370,44,Business,1495000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0371,45,Business,1498500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0372,46,Business,1502000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0373,47,Business,1505500.00,Assam,Guwahati,Tier2,Iphone,No
+C0374,48,Business,1509000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0375,49,Business,1512500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0376,50,Business,1516000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0377,51,Business,1519500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0378,52,Business,1523000.00,Assam,Guwahati,Metro,Andriod,No
+C0379,53,Business,1526500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0380,54,Business,1530000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0381,55,Business,1533500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0382,56,Business,1537000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0383,57,Business,1540500.00,Assam,Guwahati,Rural,Deskstop,No
+C0384,58,Business,1544000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0385,59,Business,1547500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0386,60,Business,1551000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0387,18,Business,1554500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0388,19,Business,1558000.00,Assam,Guwahati,Tier2,Iphone,No
+C0389,20,Business,1561500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0390,21,Business,1565000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0391,22,Business,1568500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0392,23,Business,1572000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0393,24,Business,1575500.00,Assam,Guwahati,Metro,Andriod,No
+C0394,25,Business,1579000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0395,26,Business,1582500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0396,27,Business,1586000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0397,28,Business,1589500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0398,29,Business,1593000.00,Assam,Guwahati,Rural,Deskstop,No
+C0399,30,Business,1596500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0400,31,Business,1600000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0401,32,Business,1603500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0402,33,Business,1607000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0403,34,Business,1610500.00,Assam,Guwahati,Tier2,Iphone,No
+C0404,35,Business,1614000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0405,36,Business,1617500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0406,37,Business,1621000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0407,38,Business,1624500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0408,39,Business,1628000.00,Assam,Guwahati,Metro,Andriod,No
+C0409,40,Business,1631500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0410,41,Business,1635000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0411,42,Business,1638500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0412,43,Business,1642000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0413,44,Business,1645500.00,Assam,Guwahati,Rural,Deskstop,No
+C0414,45,Business,1649000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0415,46,Business,1652500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0416,47,Business,1656000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0417,48,Business,1659500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0418,49,Business,1663000.00,Assam,Guwahati,Tier2,Iphone,No
+C0419,50,Business,1666500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0420,51,Business,1670000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0421,52,Business,1673500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0422,53,Business,1677000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0423,54,Business,1680500.00,Assam,Guwahati,Metro,Andriod,No
+C0424,55,Business,1684000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0425,56,Business,1687500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0426,57,Business,1691000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0427,58,Business,1694500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0428,59,Business,1698000.00,Assam,Guwahati,Rural,Deskstop,No
+C0429,60,Business,1701500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0430,18,Business,1705000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0431,19,"Government Employee",1708500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0432,20,"Government Employee",1712000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0433,21,"Government Employee",1715500.00,Assam,Guwahati,Tier2,Iphone,No
+C0434,22,"Government Employee",1719000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0435,23,"Government Employee",1722500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0436,24,"Government Employee",1726000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0437,25,"Government Employee",1729500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0438,26,"Government Employee",1733000.00,Assam,Guwahati,Metro,Andriod,No
+C0439,27,"Government Employee",1736500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0440,28,"Government Employee",1740000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0441,29,"Government Employee",1743500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0442,30,"Government Employee",1747000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0443,31,"Government Employee",1750500.00,Assam,Guwahati,Rural,Deskstop,No
+C0444,32,"Government Employee",1754000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0445,33,"Government Employee",1757500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0446,34,"Government Employee",1761000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0447,35,"Government Employee",1764500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0448,36,"Government Employee",1768000.00,Assam,Guwahati,Tier2,Iphone,No
+C0449,37,"Government Employee",1771500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0450,38,"Government Employee",1775000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0451,39,"Government Employee",1778500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0452,40,"Government Employee",1782000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0453,41,"Government Employee",1785500.00,Assam,Guwahati,Metro,Andriod,No
+C0454,42,"Government Employee",1789000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0455,43,"Government Employee",1792500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0456,44,"Government Employee",1796000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0457,45,"Government Employee",1799500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0458,46,"Government Employee",1803000.00,Assam,Guwahati,Rural,Deskstop,No
+C0459,47,"Government Employee",1806500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0460,48,"Government Employee",1810000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0461,49,"Government Employee",1813500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0462,50,"Government Employee",1817000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0463,51,"Government Employee",1820500.00,Assam,Guwahati,Tier2,Iphone,No
+C0464,52,"Government Employee",1824000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0465,53,"Government Employee",1827500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0466,54,"Government Employee",1831000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0467,55,"Government Employee",1834500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0468,56,"Government Employee",1838000.00,Assam,Guwahati,Metro,Andriod,No
+C0469,57,"Government Employee",1841500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0470,58,"Government Employee",1845000.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0471,59,"Government Employee",1848500.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0472,60,"Government Employee",1852000.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0473,18,"Government Employee",1855500.00,Assam,Guwahati,Rural,Deskstop,No
+C0474,19,"Government Employee",1859000.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0475,20,"Government Employee",1862500.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0476,21,"Government Employee",1866000.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0477,22,"Government Employee",1869500.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0478,23,"Government Employee",1873000.00,Assam,Guwahati,Tier2,Iphone,No
+C0479,24,"Government Employee",1876500.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0480,25,"Government Employee",1880000.00,Delhi,Delhi,Metro,Andriod,Yes
+C0481,26,"Government Employee",1883500.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0482,27,"Government Employee",1887000.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0483,28,"Government Employee",1890500.00,Assam,Guwahati,Metro,Andriod,No
+C0484,29,"Government Employee",1894000.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0485,30,"Government Employee",1897500.00,Delhi,Delhi,Rural,Deskstop,Yes
+C0486,31,"Government Employee",1901000.00,Maharashtra,Mumbai,Metro,Andriod,No
+C0487,32,"Government Employee",1904500.00,Karnataka,Bengaluru,Tier2,Iphone,No
+C0488,33,"Government Employee",1908000.00,Assam,Guwahati,Rural,Deskstop,No
+C0489,34,"Government Employee",1911500.00,"West Bengal",Kolkata,Metro,Andriod,No
+C0490,35,"Government Employee",1915000.00,Delhi,Delhi,Tier2,Iphone,Yes
+C0491,36,"Government Employee",1918500.00,Maharashtra,Mumbai,Rural,Deskstop,No
+C0492,37,"Government Employee",1922000.00,Karnataka,Bengaluru,Metro,Andriod,No
+C0493,38,"Government Employee",1925500.00,Assam,Guwahati,Tier2,Iphone,No
+C0494,39,"Government Employee",1929000.00,"West Bengal",Kolkata,Rural,Deskstop,No
+C0495,40,"Government Employee",1932500.00,Delhi,Delhi,Metro,Andriod,Yes
+C0496,41,"Government Employee",1936000.00,Maharashtra,Mumbai,Tier2,Iphone,No
+C0497,42,"Government Employee",1939500.00,Karnataka,Bengaluru,Rural,Deskstop,No
+C0498,43,"Government Employee",1943000.00,Assam,Guwahati,Metro,Andriod,No
+C0499,44,"Government Employee",1946500.00,"West Bengal",Kolkata,Tier2,Iphone,No
+C0500,45,"Government Employee",1950000.00,Delhi,Delhi,Rural,Deskstop,Yes

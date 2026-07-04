@@ -1,0 +1,1001 @@
+Journey_id,Application_id,Stage_name,Stage_status,Time_spent,Failure_reason
+J00001,A0001,OTP,Completed,11,NULL
+J00002,A0001,"Document Upload",Completed,21,NULL
+J00003,A0001,OCR,Completed,16,NULL
+J00004,A0001,"Video KYC",Completed,41,NULL
+J00005,A0001,Compliance,Completed,31,NULL
+J00006,A0002,OTP,Completed,12,NULL
+J00007,A0002,"Document Upload",Completed,22,NULL
+J00008,A0002,OCR,Completed,17,NULL
+J00009,A0002,"Video KYC",Completed,42,NULL
+J00010,A0002,Compliance,Completed,32,NULL
+J00011,A0003,OTP,Completed,13,NULL
+J00012,A0003,"Document Upload",Completed,23,NULL
+J00013,A0003,OCR,Completed,18,NULL
+J00014,A0003,"Video KYC",Completed,43,NULL
+J00015,A0003,Compliance,Completed,33,NULL
+J00016,A0004,OTP,Completed,14,NULL
+J00017,A0004,"Document Upload",Completed,24,NULL
+J00018,A0004,OCR,Completed,19,NULL
+J00019,A0004,"Video KYC",Completed,44,NULL
+J00020,A0004,Compliance,Completed,34,NULL
+J00021,A0005,OTP,Completed,15,NULL
+J00022,A0005,"Document Upload",Completed,25,NULL
+J00023,A0005,OCR,Completed,20,NULL
+J00024,A0005,"Video KYC",Completed,45,NULL
+J00025,A0005,Compliance,Completed,35,NULL
+J00026,A0006,OTP,Completed,16,NULL
+J00027,A0006,"Document Upload",Completed,26,NULL
+J00028,A0006,OCR,Completed,21,NULL
+J00029,A0006,"Video KYC",Completed,46,NULL
+J00030,A0006,Compliance,Completed,36,NULL
+J00031,A0007,OTP,Completed,17,NULL
+J00032,A0007,"Document Upload",Completed,27,NULL
+J00033,A0007,OCR,Completed,22,NULL
+J00034,A0007,"Video KYC",Completed,47,NULL
+J00035,A0007,Compliance,Completed,37,NULL
+J00036,A0008,OTP,Completed,18,NULL
+J00037,A0008,"Document Upload",Completed,28,NULL
+J00038,A0008,OCR,Completed,23,NULL
+J00039,A0008,"Video KYC",Completed,48,NULL
+J00040,A0008,Compliance,Completed,38,NULL
+J00041,A0009,OTP,Completed,19,NULL
+J00042,A0009,"Document Upload",Completed,29,NULL
+J00043,A0009,OCR,Completed,24,NULL
+J00044,A0009,"Video KYC",Completed,49,NULL
+J00045,A0009,Compliance,Completed,39,NULL
+J00046,A0010,OTP,Completed,20,NULL
+J00047,A0010,"Document Upload",Completed,30,NULL
+J00048,A0010,OCR,Completed,25,NULL
+J00049,A0010,"Video KYC",Completed,50,NULL
+J00050,A0010,Compliance,Completed,40,NULL
+J00051,A0011,OTP,Completed,21,NULL
+J00052,A0011,"Document Upload",Completed,31,NULL
+J00053,A0011,OCR,Completed,26,NULL
+J00054,A0011,"Video KYC",Completed,51,NULL
+J00055,A0011,Compliance,Completed,41,NULL
+J00056,A0012,OTP,Completed,22,NULL
+J00057,A0012,"Document Upload",Completed,32,NULL
+J00058,A0012,OCR,Completed,27,NULL
+J00059,A0012,"Video KYC",Pending,52,NULL
+J00060,A0012,Compliance,Completed,42,NULL
+J00061,A0013,OTP,Completed,23,NULL
+J00062,A0013,"Document Upload",Completed,33,NULL
+J00063,A0013,OCR,Completed,28,NULL
+J00064,A0013,"Video KYC",Completed,53,NULL
+J00065,A0013,Compliance,Completed,43,NULL
+J00066,A0014,OTP,Completed,24,NULL
+J00067,A0014,"Document Upload",Completed,34,NULL
+J00068,A0014,OCR,Completed,29,NULL
+J00069,A0014,"Video KYC",Completed,54,NULL
+J00070,A0014,Compliance,Completed,44,NULL
+J00071,A0015,OTP,Completed,25,NULL
+J00072,A0015,"Document Upload",Failed,35,"Blurry Document"
+J00073,A0015,OCR,Completed,30,NULL
+J00074,A0015,"Video KYC",Completed,55,NULL
+J00075,A0015,Compliance,Completed,45,NULL
+J00076,A0016,OTP,Completed,26,NULL
+J00077,A0016,"Document Upload",Completed,36,NULL
+J00078,A0016,OCR,Completed,31,NULL
+J00079,A0016,"Video KYC",Completed,56,NULL
+J00080,A0016,Compliance,Completed,46,NULL
+J00081,A0017,OTP,Completed,27,NULL
+J00082,A0017,"Document Upload",Completed,37,NULL
+J00083,A0017,OCR,Completed,32,NULL
+J00084,A0017,"Video KYC",Completed,57,NULL
+J00085,A0017,Compliance,Completed,47,NULL
+J00086,A0018,OTP,Completed,28,NULL
+J00087,A0018,"Document Upload",Completed,38,NULL
+J00088,A0018,OCR,Failed,33,"OCR Extraction Failed"
+J00089,A0018,"Video KYC",Completed,58,NULL
+J00090,A0018,Compliance,Completed,48,NULL
+J00091,A0019,OTP,Completed,29,NULL
+J00092,A0019,"Document Upload",Completed,39,NULL
+J00093,A0019,OCR,Completed,34,NULL
+J00094,A0019,"Video KYC",Completed,59,NULL
+J00095,A0019,Compliance,Completed,49,NULL
+J00096,A0020,OTP,Failed,10,"OTP Timeout"
+J00097,A0020,"Document Upload",Completed,40,NULL
+J00098,A0020,OCR,Completed,35,NULL
+J00099,A0020,"Video KYC",Completed,60,NULL
+J00100,A0020,Compliance,Completed,50,NULL
+J00101,A0021,OTP,Completed,11,NULL
+J00102,A0021,"Document Upload",Completed,41,NULL
+J00103,A0021,OCR,Completed,36,NULL
+J00104,A0021,"Video KYC",Completed,61,NULL
+J00105,A0021,Compliance,Completed,51,NULL
+J00106,A0022,OTP,Completed,12,NULL
+J00107,A0022,"Document Upload",Completed,42,NULL
+J00108,A0022,OCR,Completed,37,NULL
+J00109,A0022,"Video KYC",Completed,62,NULL
+J00110,A0022,Compliance,Completed,52,NULL
+J00111,A0023,OTP,Completed,13,NULL
+J00112,A0023,"Document Upload",Completed,43,NULL
+J00113,A0023,OCR,Completed,38,NULL
+J00114,A0023,"Video KYC",Completed,63,NULL
+J00115,A0023,Compliance,Completed,53,NULL
+J00116,A0024,OTP,Completed,14,NULL
+J00117,A0024,"Document Upload",Completed,44,NULL
+J00118,A0024,OCR,Completed,39,NULL
+J00119,A0024,"Video KYC",Pending,64,NULL
+J00120,A0024,Compliance,Completed,54,NULL
+J00121,A0025,OTP,Completed,15,NULL
+J00122,A0025,"Document Upload",Completed,45,NULL
+J00123,A0025,OCR,Completed,40,NULL
+J00124,A0025,"Video KYC",Failed,65,"Customer Not Available"
+J00125,A0025,Compliance,Completed,55,NULL
+J00126,A0026,OTP,Completed,16,NULL
+J00127,A0026,"Document Upload",Completed,46,NULL
+J00128,A0026,OCR,Completed,41,NULL
+J00129,A0026,"Video KYC",Completed,66,NULL
+J00130,A0026,Compliance,Completed,56,NULL
+J00131,A0027,OTP,Completed,17,NULL
+J00132,A0027,"Document Upload",Completed,47,NULL
+J00133,A0027,OCR,Completed,42,NULL
+J00134,A0027,"Video KYC",Completed,67,NULL
+J00135,A0027,Compliance,Completed,57,NULL
+J00136,A0028,OTP,Completed,18,NULL
+J00137,A0028,"Document Upload",Completed,48,NULL
+J00138,A0028,OCR,Completed,43,NULL
+J00139,A0028,"Video KYC",Completed,68,NULL
+J00140,A0028,Compliance,Completed,58,NULL
+J00141,A0029,OTP,Completed,19,NULL
+J00142,A0029,"Document Upload",Completed,49,NULL
+J00143,A0029,OCR,Completed,44,NULL
+J00144,A0029,"Video KYC",Completed,69,NULL
+J00145,A0029,Compliance,Completed,59,NULL
+J00146,A0030,OTP,Completed,20,NULL
+J00147,A0030,"Document Upload",Failed,50,"Blurry Document"
+J00148,A0030,OCR,Completed,15,NULL
+J00149,A0030,"Video KYC",Completed,70,NULL
+J00150,A0030,Compliance,Failed,60,"Compliance Check Failed"
+J00151,A0031,OTP,Completed,21,NULL
+J00152,A0031,"Document Upload",Completed,51,NULL
+J00153,A0031,OCR,Completed,16,NULL
+J00154,A0031,"Video KYC",Completed,71,NULL
+J00155,A0031,Compliance,Completed,61,NULL
+J00156,A0032,OTP,Completed,22,NULL
+J00157,A0032,"Document Upload",Completed,52,NULL
+J00158,A0032,OCR,Completed,17,NULL
+J00159,A0032,"Video KYC",Completed,72,NULL
+J00160,A0032,Compliance,Completed,62,NULL
+J00161,A0033,OTP,Completed,23,NULL
+J00162,A0033,"Document Upload",Completed,53,NULL
+J00163,A0033,OCR,Completed,18,NULL
+J00164,A0033,"Video KYC",Completed,73,NULL
+J00165,A0033,Compliance,Completed,63,NULL
+J00166,A0034,OTP,Completed,24,NULL
+J00167,A0034,"Document Upload",Completed,54,NULL
+J00168,A0034,OCR,Completed,19,NULL
+J00169,A0034,"Video KYC",Completed,74,NULL
+J00170,A0034,Compliance,Completed,64,NULL
+J00171,A0035,OTP,Completed,25,NULL
+J00172,A0035,"Document Upload",Completed,55,NULL
+J00173,A0035,OCR,Completed,20,NULL
+J00174,A0035,"Video KYC",Completed,75,NULL
+J00175,A0035,Compliance,Completed,65,NULL
+J00176,A0036,OTP,Completed,26,NULL
+J00177,A0036,"Document Upload",Completed,56,NULL
+J00178,A0036,OCR,Failed,21,"OCR Extraction Failed"
+J00179,A0036,"Video KYC",Pending,76,NULL
+J00180,A0036,Compliance,Completed,66,NULL
+J00181,A0037,OTP,Completed,27,NULL
+J00182,A0037,"Document Upload",Completed,57,NULL
+J00183,A0037,OCR,Completed,22,NULL
+J00184,A0037,"Video KYC",Completed,77,NULL
+J00185,A0037,Compliance,Completed,67,NULL
+J00186,A0038,OTP,Completed,28,NULL
+J00187,A0038,"Document Upload",Completed,58,NULL
+J00188,A0038,OCR,Completed,23,NULL
+J00189,A0038,"Video KYC",Completed,78,NULL
+J00190,A0038,Compliance,Completed,68,NULL
+J00191,A0039,OTP,Completed,29,NULL
+J00192,A0039,"Document Upload",Completed,59,NULL
+J00193,A0039,OCR,Completed,24,NULL
+J00194,A0039,"Video KYC",Completed,79,NULL
+J00195,A0039,Compliance,Completed,69,NULL
+J00196,A0040,OTP,Failed,10,"OTP Timeout"
+J00197,A0040,"Document Upload",Completed,20,NULL
+J00198,A0040,OCR,Completed,25,NULL
+J00199,A0040,"Video KYC",Completed,80,NULL
+J00200,A0040,Compliance,Completed,30,NULL
+J00201,A0041,OTP,Completed,11,NULL
+J00202,A0041,"Document Upload",Completed,21,NULL
+J00203,A0041,OCR,Completed,26,NULL
+J00204,A0041,"Video KYC",Completed,81,NULL
+J00205,A0041,Compliance,Completed,31,NULL
+J00206,A0042,OTP,Completed,12,NULL
+J00207,A0042,"Document Upload",Completed,22,NULL
+J00208,A0042,OCR,Completed,27,NULL
+J00209,A0042,"Video KYC",Completed,82,NULL
+J00210,A0042,Compliance,Completed,32,NULL
+J00211,A0043,OTP,Completed,13,NULL
+J00212,A0043,"Document Upload",Completed,23,NULL
+J00213,A0043,OCR,Completed,28,NULL
+J00214,A0043,"Video KYC",Completed,83,NULL
+J00215,A0043,Compliance,Completed,33,NULL
+J00216,A0044,OTP,Completed,14,NULL
+J00217,A0044,"Document Upload",Completed,24,NULL
+J00218,A0044,OCR,Completed,29,NULL
+J00219,A0044,"Video KYC",Completed,84,NULL
+J00220,A0044,Compliance,Completed,34,NULL
+J00221,A0045,OTP,Completed,15,NULL
+J00222,A0045,"Document Upload",Failed,25,"Blurry Document"
+J00223,A0045,OCR,Completed,30,NULL
+J00224,A0045,"Video KYC",Completed,85,NULL
+J00225,A0045,Compliance,Completed,35,NULL
+J00226,A0046,OTP,Completed,16,NULL
+J00227,A0046,"Document Upload",Completed,26,NULL
+J00228,A0046,OCR,Completed,31,NULL
+J00229,A0046,"Video KYC",Completed,86,NULL
+J00230,A0046,Compliance,Completed,36,NULL
+J00231,A0047,OTP,Completed,17,NULL
+J00232,A0047,"Document Upload",Completed,27,NULL
+J00233,A0047,OCR,Completed,32,NULL
+J00234,A0047,"Video KYC",Completed,87,NULL
+J00235,A0047,Compliance,Completed,37,NULL
+J00236,A0048,OTP,Completed,18,NULL
+J00237,A0048,"Document Upload",Completed,28,NULL
+J00238,A0048,OCR,Completed,33,NULL
+J00239,A0048,"Video KYC",Pending,88,NULL
+J00240,A0048,Compliance,Completed,38,NULL
+J00241,A0049,OTP,Completed,19,NULL
+J00242,A0049,"Document Upload",Completed,29,NULL
+J00243,A0049,OCR,Completed,34,NULL
+J00244,A0049,"Video KYC",Completed,89,NULL
+J00245,A0049,Compliance,Completed,39,NULL
+J00246,A0050,OTP,Completed,20,NULL
+J00247,A0050,"Document Upload",Completed,30,NULL
+J00248,A0050,OCR,Completed,35,NULL
+J00249,A0050,"Video KYC",Failed,90,"Customer Not Available"
+J00250,A0050,Compliance,Completed,40,NULL
+J00251,A0051,OTP,Completed,21,NULL
+J00252,A0051,"Document Upload",Completed,31,NULL
+J00253,A0051,OCR,Completed,36,NULL
+J00254,A0051,"Video KYC",Completed,91,NULL
+J00255,A0051,Compliance,Completed,41,NULL
+J00256,A0052,OTP,Completed,22,NULL
+J00257,A0052,"Document Upload",Completed,32,NULL
+J00258,A0052,OCR,Completed,37,NULL
+J00259,A0052,"Video KYC",Completed,92,NULL
+J00260,A0052,Compliance,Completed,42,NULL
+J00261,A0053,OTP,Completed,23,NULL
+J00262,A0053,"Document Upload",Completed,33,NULL
+J00263,A0053,OCR,Completed,38,NULL
+J00264,A0053,"Video KYC",Completed,93,NULL
+J00265,A0053,Compliance,Completed,43,NULL
+J00266,A0054,OTP,Completed,24,NULL
+J00267,A0054,"Document Upload",Completed,34,NULL
+J00268,A0054,OCR,Failed,39,"OCR Extraction Failed"
+J00269,A0054,"Video KYC",Completed,94,NULL
+J00270,A0054,Compliance,Completed,44,NULL
+J00271,A0055,OTP,Completed,25,NULL
+J00272,A0055,"Document Upload",Completed,35,NULL
+J00273,A0055,OCR,Completed,40,NULL
+J00274,A0055,"Video KYC",Completed,95,NULL
+J00275,A0055,Compliance,Completed,45,NULL
+J00276,A0056,OTP,Completed,26,NULL
+J00277,A0056,"Document Upload",Completed,36,NULL
+J00278,A0056,OCR,Completed,41,NULL
+J00279,A0056,"Video KYC",Completed,96,NULL
+J00280,A0056,Compliance,Completed,46,NULL
+J00281,A0057,OTP,Completed,27,NULL
+J00282,A0057,"Document Upload",Completed,37,NULL
+J00283,A0057,OCR,Completed,42,NULL
+J00284,A0057,"Video KYC",Completed,97,NULL
+J00285,A0057,Compliance,Completed,47,NULL
+J00286,A0058,OTP,Completed,28,NULL
+J00287,A0058,"Document Upload",Completed,38,NULL
+J00288,A0058,OCR,Completed,43,NULL
+J00289,A0058,"Video KYC",Completed,98,NULL
+J00290,A0058,Compliance,Completed,48,NULL
+J00291,A0059,OTP,Completed,29,NULL
+J00292,A0059,"Document Upload",Completed,39,NULL
+J00293,A0059,OCR,Completed,44,NULL
+J00294,A0059,"Video KYC",Completed,99,NULL
+J00295,A0059,Compliance,Completed,49,NULL
+J00296,A0060,OTP,Failed,10,"OTP Timeout"
+J00297,A0060,"Document Upload",Failed,40,"Blurry Document"
+J00298,A0060,OCR,Completed,15,NULL
+J00299,A0060,"Video KYC",Pending,40,NULL
+J00300,A0060,Compliance,Failed,50,"Compliance Check Failed"
+J00301,A0061,OTP,Completed,11,NULL
+J00302,A0061,"Document Upload",Completed,41,NULL
+J00303,A0061,OCR,Completed,16,NULL
+J00304,A0061,"Video KYC",Completed,41,NULL
+J00305,A0061,Compliance,Completed,51,NULL
+J00306,A0062,OTP,Completed,12,NULL
+J00307,A0062,"Document Upload",Completed,42,NULL
+J00308,A0062,OCR,Completed,17,NULL
+J00309,A0062,"Video KYC",Completed,42,NULL
+J00310,A0062,Compliance,Completed,52,NULL
+J00311,A0063,OTP,Completed,13,NULL
+J00312,A0063,"Document Upload",Completed,43,NULL
+J00313,A0063,OCR,Completed,18,NULL
+J00314,A0063,"Video KYC",Completed,43,NULL
+J00315,A0063,Compliance,Completed,53,NULL
+J00316,A0064,OTP,Completed,14,NULL
+J00317,A0064,"Document Upload",Completed,44,NULL
+J00318,A0064,OCR,Completed,19,NULL
+J00319,A0064,"Video KYC",Completed,44,NULL
+J00320,A0064,Compliance,Completed,54,NULL
+J00321,A0065,OTP,Completed,15,NULL
+J00322,A0065,"Document Upload",Completed,45,NULL
+J00323,A0065,OCR,Completed,20,NULL
+J00324,A0065,"Video KYC",Completed,45,NULL
+J00325,A0065,Compliance,Completed,55,NULL
+J00326,A0066,OTP,Completed,16,NULL
+J00327,A0066,"Document Upload",Completed,46,NULL
+J00328,A0066,OCR,Completed,21,NULL
+J00329,A0066,"Video KYC",Completed,46,NULL
+J00330,A0066,Compliance,Completed,56,NULL
+J00331,A0067,OTP,Completed,17,NULL
+J00332,A0067,"Document Upload",Completed,47,NULL
+J00333,A0067,OCR,Completed,22,NULL
+J00334,A0067,"Video KYC",Completed,47,NULL
+J00335,A0067,Compliance,Completed,57,NULL
+J00336,A0068,OTP,Completed,18,NULL
+J00337,A0068,"Document Upload",Completed,48,NULL
+J00338,A0068,OCR,Completed,23,NULL
+J00339,A0068,"Video KYC",Completed,48,NULL
+J00340,A0068,Compliance,Completed,58,NULL
+J00341,A0069,OTP,Completed,19,NULL
+J00342,A0069,"Document Upload",Completed,49,NULL
+J00343,A0069,OCR,Completed,24,NULL
+J00344,A0069,"Video KYC",Completed,49,NULL
+J00345,A0069,Compliance,Completed,59,NULL
+J00346,A0070,OTP,Completed,20,NULL
+J00347,A0070,"Document Upload",Completed,50,NULL
+J00348,A0070,OCR,Completed,25,NULL
+J00349,A0070,"Video KYC",Completed,50,NULL
+J00350,A0070,Compliance,Completed,60,NULL
+J00351,A0071,OTP,Completed,21,NULL
+J00352,A0071,"Document Upload",Completed,51,NULL
+J00353,A0071,OCR,Completed,26,NULL
+J00354,A0071,"Video KYC",Completed,51,NULL
+J00355,A0071,Compliance,Completed,61,NULL
+J00356,A0072,OTP,Completed,22,NULL
+J00357,A0072,"Document Upload",Completed,52,NULL
+J00358,A0072,OCR,Failed,27,"OCR Extraction Failed"
+J00359,A0072,"Video KYC",Pending,52,NULL
+J00360,A0072,Compliance,Completed,62,NULL
+J00361,A0073,OTP,Completed,23,NULL
+J00362,A0073,"Document Upload",Completed,53,NULL
+J00363,A0073,OCR,Completed,28,NULL
+J00364,A0073,"Video KYC",Completed,53,NULL
+J00365,A0073,Compliance,Completed,63,NULL
+J00366,A0074,OTP,Completed,24,NULL
+J00367,A0074,"Document Upload",Completed,54,NULL
+J00368,A0074,OCR,Completed,29,NULL
+J00369,A0074,"Video KYC",Completed,54,NULL
+J00370,A0074,Compliance,Completed,64,NULL
+J00371,A0075,OTP,Completed,25,NULL
+J00372,A0075,"Document Upload",Failed,55,"Blurry Document"
+J00373,A0075,OCR,Completed,30,NULL
+J00374,A0075,"Video KYC",Failed,55,"Customer Not Available"
+J00375,A0075,Compliance,Completed,65,NULL
+J00376,A0076,OTP,Completed,26,NULL
+J00377,A0076,"Document Upload",Completed,56,NULL
+J00378,A0076,OCR,Completed,31,NULL
+J00379,A0076,"Video KYC",Completed,56,NULL
+J00380,A0076,Compliance,Completed,66,NULL
+J00381,A0077,OTP,Completed,27,NULL
+J00382,A0077,"Document Upload",Completed,57,NULL
+J00383,A0077,OCR,Completed,32,NULL
+J00384,A0077,"Video KYC",Completed,57,NULL
+J00385,A0077,Compliance,Completed,67,NULL
+J00386,A0078,OTP,Completed,28,NULL
+J00387,A0078,"Document Upload",Completed,58,NULL
+J00388,A0078,OCR,Completed,33,NULL
+J00389,A0078,"Video KYC",Completed,58,NULL
+J00390,A0078,Compliance,Completed,68,NULL
+J00391,A0079,OTP,Completed,29,NULL
+J00392,A0079,"Document Upload",Completed,59,NULL
+J00393,A0079,OCR,Completed,34,NULL
+J00394,A0079,"Video KYC",Completed,59,NULL
+J00395,A0079,Compliance,Completed,69,NULL
+J00396,A0080,OTP,Failed,10,"OTP Timeout"
+J00397,A0080,"Document Upload",Completed,20,NULL
+J00398,A0080,OCR,Completed,35,NULL
+J00399,A0080,"Video KYC",Completed,60,NULL
+J00400,A0080,Compliance,Completed,30,NULL
+J00401,A0081,OTP,Completed,11,NULL
+J00402,A0081,"Document Upload",Completed,21,NULL
+J00403,A0081,OCR,Completed,36,NULL
+J00404,A0081,"Video KYC",Completed,61,NULL
+J00405,A0081,Compliance,Completed,31,NULL
+J00406,A0082,OTP,Completed,12,NULL
+J00407,A0082,"Document Upload",Completed,22,NULL
+J00408,A0082,OCR,Completed,37,NULL
+J00409,A0082,"Video KYC",Completed,62,NULL
+J00410,A0082,Compliance,Completed,32,NULL
+J00411,A0083,OTP,Completed,13,NULL
+J00412,A0083,"Document Upload",Completed,23,NULL
+J00413,A0083,OCR,Completed,38,NULL
+J00414,A0083,"Video KYC",Completed,63,NULL
+J00415,A0083,Compliance,Completed,33,NULL
+J00416,A0084,OTP,Completed,14,NULL
+J00417,A0084,"Document Upload",Completed,24,NULL
+J00418,A0084,OCR,Completed,39,NULL
+J00419,A0084,"Video KYC",Pending,64,NULL
+J00420,A0084,Compliance,Completed,34,NULL
+J00421,A0085,OTP,Completed,15,NULL
+J00422,A0085,"Document Upload",Completed,25,NULL
+J00423,A0085,OCR,Completed,40,NULL
+J00424,A0085,"Video KYC",Completed,65,NULL
+J00425,A0085,Compliance,Completed,35,NULL
+J00426,A0086,OTP,Completed,16,NULL
+J00427,A0086,"Document Upload",Completed,26,NULL
+J00428,A0086,OCR,Completed,41,NULL
+J00429,A0086,"Video KYC",Completed,66,NULL
+J00430,A0086,Compliance,Completed,36,NULL
+J00431,A0087,OTP,Completed,17,NULL
+J00432,A0087,"Document Upload",Completed,27,NULL
+J00433,A0087,OCR,Completed,42,NULL
+J00434,A0087,"Video KYC",Completed,67,NULL
+J00435,A0087,Compliance,Completed,37,NULL
+J00436,A0088,OTP,Completed,18,NULL
+J00437,A0088,"Document Upload",Completed,28,NULL
+J00438,A0088,OCR,Completed,43,NULL
+J00439,A0088,"Video KYC",Completed,68,NULL
+J00440,A0088,Compliance,Completed,38,NULL
+J00441,A0089,OTP,Completed,19,NULL
+J00442,A0089,"Document Upload",Completed,29,NULL
+J00443,A0089,OCR,Completed,44,NULL
+J00444,A0089,"Video KYC",Completed,69,NULL
+J00445,A0089,Compliance,Completed,39,NULL
+J00446,A0090,OTP,Completed,20,NULL
+J00447,A0090,"Document Upload",Failed,30,"Blurry Document"
+J00448,A0090,OCR,Failed,15,"OCR Extraction Failed"
+J00449,A0090,"Video KYC",Completed,70,NULL
+J00450,A0090,Compliance,Failed,40,"Compliance Check Failed"
+J00451,A0091,OTP,Completed,21,NULL
+J00452,A0091,"Document Upload",Completed,31,NULL
+J00453,A0091,OCR,Completed,16,NULL
+J00454,A0091,"Video KYC",Completed,71,NULL
+J00455,A0091,Compliance,Completed,41,NULL
+J00456,A0092,OTP,Completed,22,NULL
+J00457,A0092,"Document Upload",Completed,32,NULL
+J00458,A0092,OCR,Completed,17,NULL
+J00459,A0092,"Video KYC",Completed,72,NULL
+J00460,A0092,Compliance,Completed,42,NULL
+J00461,A0093,OTP,Completed,23,NULL
+J00462,A0093,"Document Upload",Completed,33,NULL
+J00463,A0093,OCR,Completed,18,NULL
+J00464,A0093,"Video KYC",Completed,73,NULL
+J00465,A0093,Compliance,Completed,43,NULL
+J00466,A0094,OTP,Completed,24,NULL
+J00467,A0094,"Document Upload",Completed,34,NULL
+J00468,A0094,OCR,Completed,19,NULL
+J00469,A0094,"Video KYC",Completed,74,NULL
+J00470,A0094,Compliance,Completed,44,NULL
+J00471,A0095,OTP,Completed,25,NULL
+J00472,A0095,"Document Upload",Completed,35,NULL
+J00473,A0095,OCR,Completed,20,NULL
+J00474,A0095,"Video KYC",Completed,75,NULL
+J00475,A0095,Compliance,Completed,45,NULL
+J00476,A0096,OTP,Completed,26,NULL
+J00477,A0096,"Document Upload",Completed,36,NULL
+J00478,A0096,OCR,Completed,21,NULL
+J00479,A0096,"Video KYC",Pending,76,NULL
+J00480,A0096,Compliance,Completed,46,NULL
+J00481,A0097,OTP,Completed,27,NULL
+J00482,A0097,"Document Upload",Completed,37,NULL
+J00483,A0097,OCR,Completed,22,NULL
+J00484,A0097,"Video KYC",Completed,77,NULL
+J00485,A0097,Compliance,Completed,47,NULL
+J00486,A0098,OTP,Completed,28,NULL
+J00487,A0098,"Document Upload",Completed,38,NULL
+J00488,A0098,OCR,Completed,23,NULL
+J00489,A0098,"Video KYC",Completed,78,NULL
+J00490,A0098,Compliance,Completed,48,NULL
+J00491,A0099,OTP,Completed,29,NULL
+J00492,A0099,"Document Upload",Completed,39,NULL
+J00493,A0099,OCR,Completed,24,NULL
+J00494,A0099,"Video KYC",Completed,79,NULL
+J00495,A0099,Compliance,Completed,49,NULL
+J00496,A0100,OTP,Failed,10,"OTP Timeout"
+J00497,A0100,"Document Upload",Completed,40,NULL
+J00498,A0100,OCR,Completed,25,NULL
+J00499,A0100,"Video KYC",Failed,80,"Customer Not Available"
+J00500,A0100,Compliance,Completed,50,NULL
+J00501,A0101,OTP,Completed,11,NULL
+J00502,A0101,"Document Upload",Completed,41,NULL
+J00503,A0101,OCR,Completed,26,NULL
+J00504,A0101,"Video KYC",Completed,81,NULL
+J00505,A0101,Compliance,Completed,51,NULL
+J00506,A0102,OTP,Completed,12,NULL
+J00507,A0102,"Document Upload",Completed,42,NULL
+J00508,A0102,OCR,Completed,27,NULL
+J00509,A0102,"Video KYC",Completed,82,NULL
+J00510,A0102,Compliance,Completed,52,NULL
+J00511,A0103,OTP,Completed,13,NULL
+J00512,A0103,"Document Upload",Completed,43,NULL
+J00513,A0103,OCR,Completed,28,NULL
+J00514,A0103,"Video KYC",Completed,83,NULL
+J00515,A0103,Compliance,Completed,53,NULL
+J00516,A0104,OTP,Completed,14,NULL
+J00517,A0104,"Document Upload",Completed,44,NULL
+J00518,A0104,OCR,Completed,29,NULL
+J00519,A0104,"Video KYC",Completed,84,NULL
+J00520,A0104,Compliance,Completed,54,NULL
+J00521,A0105,OTP,Completed,15,NULL
+J00522,A0105,"Document Upload",Failed,45,"Blurry Document"
+J00523,A0105,OCR,Completed,30,NULL
+J00524,A0105,"Video KYC",Completed,85,NULL
+J00525,A0105,Compliance,Completed,55,NULL
+J00526,A0106,OTP,Completed,16,NULL
+J00527,A0106,"Document Upload",Completed,46,NULL
+J00528,A0106,OCR,Completed,31,NULL
+J00529,A0106,"Video KYC",Completed,86,NULL
+J00530,A0106,Compliance,Completed,56,NULL
+J00531,A0107,OTP,Completed,17,NULL
+J00532,A0107,"Document Upload",Completed,47,NULL
+J00533,A0107,OCR,Completed,32,NULL
+J00534,A0107,"Video KYC",Completed,87,NULL
+J00535,A0107,Compliance,Completed,57,NULL
+J00536,A0108,OTP,Completed,18,NULL
+J00537,A0108,"Document Upload",Completed,48,NULL
+J00538,A0108,OCR,Failed,33,"OCR Extraction Failed"
+J00539,A0108,"Video KYC",Pending,88,NULL
+J00540,A0108,Compliance,Completed,58,NULL
+J00541,A0109,OTP,Completed,19,NULL
+J00542,A0109,"Document Upload",Completed,49,NULL
+J00543,A0109,OCR,Completed,34,NULL
+J00544,A0109,"Video KYC",Completed,89,NULL
+J00545,A0109,Compliance,Completed,59,NULL
+J00546,A0110,OTP,Completed,20,NULL
+J00547,A0110,"Document Upload",Completed,50,NULL
+J00548,A0110,OCR,Completed,35,NULL
+J00549,A0110,"Video KYC",Completed,90,NULL
+J00550,A0110,Compliance,Completed,60,NULL
+J00551,A0111,OTP,Completed,21,NULL
+J00552,A0111,"Document Upload",Completed,51,NULL
+J00553,A0111,OCR,Completed,36,NULL
+J00554,A0111,"Video KYC",Completed,91,NULL
+J00555,A0111,Compliance,Completed,61,NULL
+J00556,A0112,OTP,Completed,22,NULL
+J00557,A0112,"Document Upload",Completed,52,NULL
+J00558,A0112,OCR,Completed,37,NULL
+J00559,A0112,"Video KYC",Completed,92,NULL
+J00560,A0112,Compliance,Completed,62,NULL
+J00561,A0113,OTP,Completed,23,NULL
+J00562,A0113,"Document Upload",Completed,53,NULL
+J00563,A0113,OCR,Completed,38,NULL
+J00564,A0113,"Video KYC",Completed,93,NULL
+J00565,A0113,Compliance,Completed,63,NULL
+J00566,A0114,OTP,Completed,24,NULL
+J00567,A0114,"Document Upload",Completed,54,NULL
+J00568,A0114,OCR,Completed,39,NULL
+J00569,A0114,"Video KYC",Completed,94,NULL
+J00570,A0114,Compliance,Completed,64,NULL
+J00571,A0115,OTP,Completed,25,NULL
+J00572,A0115,"Document Upload",Completed,55,NULL
+J00573,A0115,OCR,Completed,40,NULL
+J00574,A0115,"Video KYC",Completed,95,NULL
+J00575,A0115,Compliance,Completed,65,NULL
+J00576,A0116,OTP,Completed,26,NULL
+J00577,A0116,"Document Upload",Completed,56,NULL
+J00578,A0116,OCR,Completed,41,NULL
+J00579,A0116,"Video KYC",Completed,96,NULL
+J00580,A0116,Compliance,Completed,66,NULL
+J00581,A0117,OTP,Completed,27,NULL
+J00582,A0117,"Document Upload",Completed,57,NULL
+J00583,A0117,OCR,Completed,42,NULL
+J00584,A0117,"Video KYC",Completed,97,NULL
+J00585,A0117,Compliance,Completed,67,NULL
+J00586,A0118,OTP,Completed,28,NULL
+J00587,A0118,"Document Upload",Completed,58,NULL
+J00588,A0118,OCR,Completed,43,NULL
+J00589,A0118,"Video KYC",Completed,98,NULL
+J00590,A0118,Compliance,Completed,68,NULL
+J00591,A0119,OTP,Completed,29,NULL
+J00592,A0119,"Document Upload",Completed,59,NULL
+J00593,A0119,OCR,Completed,44,NULL
+J00594,A0119,"Video KYC",Completed,99,NULL
+J00595,A0119,Compliance,Completed,69,NULL
+J00596,A0120,OTP,Failed,10,"OTP Timeout"
+J00597,A0120,"Document Upload",Failed,20,"Blurry Document"
+J00598,A0120,OCR,Completed,15,NULL
+J00599,A0120,"Video KYC",Pending,40,NULL
+J00600,A0120,Compliance,Failed,30,"Compliance Check Failed"
+J00601,A0121,OTP,Completed,11,NULL
+J00602,A0121,"Document Upload",Completed,21,NULL
+J00603,A0121,OCR,Completed,16,NULL
+J00604,A0121,"Video KYC",Completed,41,NULL
+J00605,A0121,Compliance,Completed,31,NULL
+J00606,A0122,OTP,Completed,12,NULL
+J00607,A0122,"Document Upload",Completed,22,NULL
+J00608,A0122,OCR,Completed,17,NULL
+J00609,A0122,"Video KYC",Completed,42,NULL
+J00610,A0122,Compliance,Completed,32,NULL
+J00611,A0123,OTP,Completed,13,NULL
+J00612,A0123,"Document Upload",Completed,23,NULL
+J00613,A0123,OCR,Completed,18,NULL
+J00614,A0123,"Video KYC",Completed,43,NULL
+J00615,A0123,Compliance,Completed,33,NULL
+J00616,A0124,OTP,Completed,14,NULL
+J00617,A0124,"Document Upload",Completed,24,NULL
+J00618,A0124,OCR,Completed,19,NULL
+J00619,A0124,"Video KYC",Completed,44,NULL
+J00620,A0124,Compliance,Completed,34,NULL
+J00621,A0125,OTP,Completed,15,NULL
+J00622,A0125,"Document Upload",Completed,25,NULL
+J00623,A0125,OCR,Completed,20,NULL
+J00624,A0125,"Video KYC",Failed,45,"Customer Not Available"
+J00625,A0125,Compliance,Completed,35,NULL
+J00626,A0126,OTP,Completed,16,NULL
+J00627,A0126,"Document Upload",Completed,26,NULL
+J00628,A0126,OCR,Failed,21,"OCR Extraction Failed"
+J00629,A0126,"Video KYC",Completed,46,NULL
+J00630,A0126,Compliance,Completed,36,NULL
+J00631,A0127,OTP,Completed,17,NULL
+J00632,A0127,"Document Upload",Completed,27,NULL
+J00633,A0127,OCR,Completed,22,NULL
+J00634,A0127,"Video KYC",Completed,47,NULL
+J00635,A0127,Compliance,Completed,37,NULL
+J00636,A0128,OTP,Completed,18,NULL
+J00637,A0128,"Document Upload",Completed,28,NULL
+J00638,A0128,OCR,Completed,23,NULL
+J00639,A0128,"Video KYC",Completed,48,NULL
+J00640,A0128,Compliance,Completed,38,NULL
+J00641,A0129,OTP,Completed,19,NULL
+J00642,A0129,"Document Upload",Completed,29,NULL
+J00643,A0129,OCR,Completed,24,NULL
+J00644,A0129,"Video KYC",Completed,49,NULL
+J00645,A0129,Compliance,Completed,39,NULL
+J00646,A0130,OTP,Completed,20,NULL
+J00647,A0130,"Document Upload",Completed,30,NULL
+J00648,A0130,OCR,Completed,25,NULL
+J00649,A0130,"Video KYC",Completed,50,NULL
+J00650,A0130,Compliance,Completed,40,NULL
+J00651,A0131,OTP,Completed,21,NULL
+J00652,A0131,"Document Upload",Completed,31,NULL
+J00653,A0131,OCR,Completed,26,NULL
+J00654,A0131,"Video KYC",Completed,51,NULL
+J00655,A0131,Compliance,Completed,41,NULL
+J00656,A0132,OTP,Completed,22,NULL
+J00657,A0132,"Document Upload",Completed,32,NULL
+J00658,A0132,OCR,Completed,27,NULL
+J00659,A0132,"Video KYC",Pending,52,NULL
+J00660,A0132,Compliance,Completed,42,NULL
+J00661,A0133,OTP,Completed,23,NULL
+J00662,A0133,"Document Upload",Completed,33,NULL
+J00663,A0133,OCR,Completed,28,NULL
+J00664,A0133,"Video KYC",Completed,53,NULL
+J00665,A0133,Compliance,Completed,43,NULL
+J00666,A0134,OTP,Completed,24,NULL
+J00667,A0134,"Document Upload",Completed,34,NULL
+J00668,A0134,OCR,Completed,29,NULL
+J00669,A0134,"Video KYC",Completed,54,NULL
+J00670,A0134,Compliance,Completed,44,NULL
+J00671,A0135,OTP,Completed,25,NULL
+J00672,A0135,"Document Upload",Failed,35,"Blurry Document"
+J00673,A0135,OCR,Completed,30,NULL
+J00674,A0135,"Video KYC",Completed,55,NULL
+J00675,A0135,Compliance,Completed,45,NULL
+J00676,A0136,OTP,Completed,26,NULL
+J00677,A0136,"Document Upload",Completed,36,NULL
+J00678,A0136,OCR,Completed,31,NULL
+J00679,A0136,"Video KYC",Completed,56,NULL
+J00680,A0136,Compliance,Completed,46,NULL
+J00681,A0137,OTP,Completed,27,NULL
+J00682,A0137,"Document Upload",Completed,37,NULL
+J00683,A0137,OCR,Completed,32,NULL
+J00684,A0137,"Video KYC",Completed,57,NULL
+J00685,A0137,Compliance,Completed,47,NULL
+J00686,A0138,OTP,Completed,28,NULL
+J00687,A0138,"Document Upload",Completed,38,NULL
+J00688,A0138,OCR,Completed,33,NULL
+J00689,A0138,"Video KYC",Completed,58,NULL
+J00690,A0138,Compliance,Completed,48,NULL
+J00691,A0139,OTP,Completed,29,NULL
+J00692,A0139,"Document Upload",Completed,39,NULL
+J00693,A0139,OCR,Completed,34,NULL
+J00694,A0139,"Video KYC",Completed,59,NULL
+J00695,A0139,Compliance,Completed,49,NULL
+J00696,A0140,OTP,Failed,10,"OTP Timeout"
+J00697,A0140,"Document Upload",Completed,40,NULL
+J00698,A0140,OCR,Completed,35,NULL
+J00699,A0140,"Video KYC",Completed,60,NULL
+J00700,A0140,Compliance,Completed,50,NULL
+J00701,A0141,OTP,Completed,11,NULL
+J00702,A0141,"Document Upload",Completed,41,NULL
+J00703,A0141,OCR,Completed,36,NULL
+J00704,A0141,"Video KYC",Completed,61,NULL
+J00705,A0141,Compliance,Completed,51,NULL
+J00706,A0142,OTP,Completed,12,NULL
+J00707,A0142,"Document Upload",Completed,42,NULL
+J00708,A0142,OCR,Completed,37,NULL
+J00709,A0142,"Video KYC",Completed,62,NULL
+J00710,A0142,Compliance,Completed,52,NULL
+J00711,A0143,OTP,Completed,13,NULL
+J00712,A0143,"Document Upload",Completed,43,NULL
+J00713,A0143,OCR,Completed,38,NULL
+J00714,A0143,"Video KYC",Completed,63,NULL
+J00715,A0143,Compliance,Completed,53,NULL
+J00716,A0144,OTP,Completed,14,NULL
+J00717,A0144,"Document Upload",Completed,44,NULL
+J00718,A0144,OCR,Failed,39,"OCR Extraction Failed"
+J00719,A0144,"Video KYC",Pending,64,NULL
+J00720,A0144,Compliance,Completed,54,NULL
+J00721,A0145,OTP,Completed,15,NULL
+J00722,A0145,"Document Upload",Completed,45,NULL
+J00723,A0145,OCR,Completed,40,NULL
+J00724,A0145,"Video KYC",Completed,65,NULL
+J00725,A0145,Compliance,Completed,55,NULL
+J00726,A0146,OTP,Completed,16,NULL
+J00727,A0146,"Document Upload",Completed,46,NULL
+J00728,A0146,OCR,Completed,41,NULL
+J00729,A0146,"Video KYC",Completed,66,NULL
+J00730,A0146,Compliance,Completed,56,NULL
+J00731,A0147,OTP,Completed,17,NULL
+J00732,A0147,"Document Upload",Completed,47,NULL
+J00733,A0147,OCR,Completed,42,NULL
+J00734,A0147,"Video KYC",Completed,67,NULL
+J00735,A0147,Compliance,Completed,57,NULL
+J00736,A0148,OTP,Completed,18,NULL
+J00737,A0148,"Document Upload",Completed,48,NULL
+J00738,A0148,OCR,Completed,43,NULL
+J00739,A0148,"Video KYC",Completed,68,NULL
+J00740,A0148,Compliance,Completed,58,NULL
+J00741,A0149,OTP,Completed,19,NULL
+J00742,A0149,"Document Upload",Completed,49,NULL
+J00743,A0149,OCR,Completed,44,NULL
+J00744,A0149,"Video KYC",Completed,69,NULL
+J00745,A0149,Compliance,Completed,59,NULL
+J00746,A0150,OTP,Completed,20,NULL
+J00747,A0150,"Document Upload",Failed,50,"Blurry Document"
+J00748,A0150,OCR,Completed,15,NULL
+J00749,A0150,"Video KYC",Failed,70,"Customer Not Available"
+J00750,A0150,Compliance,Failed,60,"Compliance Check Failed"
+J00751,A0151,OTP,Completed,21,NULL
+J00752,A0151,"Document Upload",Completed,51,NULL
+J00753,A0151,OCR,Completed,16,NULL
+J00754,A0151,"Video KYC",Completed,71,NULL
+J00755,A0151,Compliance,Completed,61,NULL
+J00756,A0152,OTP,Completed,22,NULL
+J00757,A0152,"Document Upload",Completed,52,NULL
+J00758,A0152,OCR,Completed,17,NULL
+J00759,A0152,"Video KYC",Completed,72,NULL
+J00760,A0152,Compliance,Completed,62,NULL
+J00761,A0153,OTP,Completed,23,NULL
+J00762,A0153,"Document Upload",Completed,53,NULL
+J00763,A0153,OCR,Completed,18,NULL
+J00764,A0153,"Video KYC",Completed,73,NULL
+J00765,A0153,Compliance,Completed,63,NULL
+J00766,A0154,OTP,Completed,24,NULL
+J00767,A0154,"Document Upload",Completed,54,NULL
+J00768,A0154,OCR,Completed,19,NULL
+J00769,A0154,"Video KYC",Completed,74,NULL
+J00770,A0154,Compliance,Completed,64,NULL
+J00771,A0155,OTP,Completed,25,NULL
+J00772,A0155,"Document Upload",Completed,55,NULL
+J00773,A0155,OCR,Completed,20,NULL
+J00774,A0155,"Video KYC",Completed,75,NULL
+J00775,A0155,Compliance,Completed,65,NULL
+J00776,A0156,OTP,Completed,26,NULL
+J00777,A0156,"Document Upload",Completed,56,NULL
+J00778,A0156,OCR,Completed,21,NULL
+J00779,A0156,"Video KYC",Pending,76,NULL
+J00780,A0156,Compliance,Completed,66,NULL
+J00781,A0157,OTP,Completed,27,NULL
+J00782,A0157,"Document Upload",Completed,57,NULL
+J00783,A0157,OCR,Completed,22,NULL
+J00784,A0157,"Video KYC",Completed,77,NULL
+J00785,A0157,Compliance,Completed,67,NULL
+J00786,A0158,OTP,Completed,28,NULL
+J00787,A0158,"Document Upload",Completed,58,NULL
+J00788,A0158,OCR,Completed,23,NULL
+J00789,A0158,"Video KYC",Completed,78,NULL
+J00790,A0158,Compliance,Completed,68,NULL
+J00791,A0159,OTP,Completed,29,NULL
+J00792,A0159,"Document Upload",Completed,59,NULL
+J00793,A0159,OCR,Completed,24,NULL
+J00794,A0159,"Video KYC",Completed,79,NULL
+J00795,A0159,Compliance,Completed,69,NULL
+J00796,A0160,OTP,Failed,10,"OTP Timeout"
+J00797,A0160,"Document Upload",Completed,20,NULL
+J00798,A0160,OCR,Completed,25,NULL
+J00799,A0160,"Video KYC",Completed,80,NULL
+J00800,A0160,Compliance,Completed,30,NULL
+J00801,A0161,OTP,Completed,11,NULL
+J00802,A0161,"Document Upload",Completed,21,NULL
+J00803,A0161,OCR,Completed,26,NULL
+J00804,A0161,"Video KYC",Completed,81,NULL
+J00805,A0161,Compliance,Completed,31,NULL
+J00806,A0162,OTP,Completed,12,NULL
+J00807,A0162,"Document Upload",Completed,22,NULL
+J00808,A0162,OCR,Failed,27,"OCR Extraction Failed"
+J00809,A0162,"Video KYC",Completed,82,NULL
+J00810,A0162,Compliance,Completed,32,NULL
+J00811,A0163,OTP,Completed,13,NULL
+J00812,A0163,"Document Upload",Completed,23,NULL
+J00813,A0163,OCR,Completed,28,NULL
+J00814,A0163,"Video KYC",Completed,83,NULL
+J00815,A0163,Compliance,Completed,33,NULL
+J00816,A0164,OTP,Completed,14,NULL
+J00817,A0164,"Document Upload",Completed,24,NULL
+J00818,A0164,OCR,Completed,29,NULL
+J00819,A0164,"Video KYC",Completed,84,NULL
+J00820,A0164,Compliance,Completed,34,NULL
+J00821,A0165,OTP,Completed,15,NULL
+J00822,A0165,"Document Upload",Failed,25,"Blurry Document"
+J00823,A0165,OCR,Completed,30,NULL
+J00824,A0165,"Video KYC",Completed,85,NULL
+J00825,A0165,Compliance,Completed,35,NULL
+J00826,A0166,OTP,Completed,16,NULL
+J00827,A0166,"Document Upload",Completed,26,NULL
+J00828,A0166,OCR,Completed,31,NULL
+J00829,A0166,"Video KYC",Completed,86,NULL
+J00830,A0166,Compliance,Completed,36,NULL
+J00831,A0167,OTP,Completed,17,NULL
+J00832,A0167,"Document Upload",Completed,27,NULL
+J00833,A0167,OCR,Completed,32,NULL
+J00834,A0167,"Video KYC",Completed,87,NULL
+J00835,A0167,Compliance,Completed,37,NULL
+J00836,A0168,OTP,Completed,18,NULL
+J00837,A0168,"Document Upload",Completed,28,NULL
+J00838,A0168,OCR,Completed,33,NULL
+J00839,A0168,"Video KYC",Pending,88,NULL
+J00840,A0168,Compliance,Completed,38,NULL
+J00841,A0169,OTP,Completed,19,NULL
+J00842,A0169,"Document Upload",Completed,29,NULL
+J00843,A0169,OCR,Completed,34,NULL
+J00844,A0169,"Video KYC",Completed,89,NULL
+J00845,A0169,Compliance,Completed,39,NULL
+J00846,A0170,OTP,Completed,20,NULL
+J00847,A0170,"Document Upload",Completed,30,NULL
+J00848,A0170,OCR,Completed,35,NULL
+J00849,A0170,"Video KYC",Completed,90,NULL
+J00850,A0170,Compliance,Completed,40,NULL
+J00851,A0171,OTP,Completed,21,NULL
+J00852,A0171,"Document Upload",Completed,31,NULL
+J00853,A0171,OCR,Completed,36,NULL
+J00854,A0171,"Video KYC",Completed,91,NULL
+J00855,A0171,Compliance,Completed,41,NULL
+J00856,A0172,OTP,Completed,22,NULL
+J00857,A0172,"Document Upload",Completed,32,NULL
+J00858,A0172,OCR,Completed,37,NULL
+J00859,A0172,"Video KYC",Completed,92,NULL
+J00860,A0172,Compliance,Completed,42,NULL
+J00861,A0173,OTP,Completed,23,NULL
+J00862,A0173,"Document Upload",Completed,33,NULL
+J00863,A0173,OCR,Completed,38,NULL
+J00864,A0173,"Video KYC",Completed,93,NULL
+J00865,A0173,Compliance,Completed,43,NULL
+J00866,A0174,OTP,Completed,24,NULL
+J00867,A0174,"Document Upload",Completed,34,NULL
+J00868,A0174,OCR,Completed,39,NULL
+J00869,A0174,"Video KYC",Completed,94,NULL
+J00870,A0174,Compliance,Completed,44,NULL
+J00871,A0175,OTP,Completed,25,NULL
+J00872,A0175,"Document Upload",Completed,35,NULL
+J00873,A0175,OCR,Completed,40,NULL
+J00874,A0175,"Video KYC",Failed,95,"Customer Not Available"
+J00875,A0175,Compliance,Completed,45,NULL
+J00876,A0176,OTP,Completed,26,NULL
+J00877,A0176,"Document Upload",Completed,36,NULL
+J00878,A0176,OCR,Completed,41,NULL
+J00879,A0176,"Video KYC",Completed,96,NULL
+J00880,A0176,Compliance,Completed,46,NULL
+J00881,A0177,OTP,Completed,27,NULL
+J00882,A0177,"Document Upload",Completed,37,NULL
+J00883,A0177,OCR,Completed,42,NULL
+J00884,A0177,"Video KYC",Completed,97,NULL
+J00885,A0177,Compliance,Completed,47,NULL
+J00886,A0178,OTP,Completed,28,NULL
+J00887,A0178,"Document Upload",Completed,38,NULL
+J00888,A0178,OCR,Completed,43,NULL
+J00889,A0178,"Video KYC",Completed,98,NULL
+J00890,A0178,Compliance,Completed,48,NULL
+J00891,A0179,OTP,Completed,29,NULL
+J00892,A0179,"Document Upload",Completed,39,NULL
+J00893,A0179,OCR,Completed,44,NULL
+J00894,A0179,"Video KYC",Completed,99,NULL
+J00895,A0179,Compliance,Completed,49,NULL
+J00896,A0180,OTP,Failed,10,"OTP Timeout"
+J00897,A0180,"Document Upload",Failed,40,"Blurry Document"
+J00898,A0180,OCR,Failed,15,"OCR Extraction Failed"
+J00899,A0180,"Video KYC",Pending,40,NULL
+J00900,A0180,Compliance,Failed,50,"Compliance Check Failed"
+J00901,A0181,OTP,Completed,11,NULL
+J00902,A0181,"Document Upload",Completed,41,NULL
+J00903,A0181,OCR,Completed,16,NULL
+J00904,A0181,"Video KYC",Completed,41,NULL
+J00905,A0181,Compliance,Completed,51,NULL
+J00906,A0182,OTP,Completed,12,NULL
+J00907,A0182,"Document Upload",Completed,42,NULL
+J00908,A0182,OCR,Completed,17,NULL
+J00909,A0182,"Video KYC",Completed,42,NULL
+J00910,A0182,Compliance,Completed,52,NULL
+J00911,A0183,OTP,Completed,13,NULL
+J00912,A0183,"Document Upload",Completed,43,NULL
+J00913,A0183,OCR,Completed,18,NULL
+J00914,A0183,"Video KYC",Completed,43,NULL
+J00915,A0183,Compliance,Completed,53,NULL
+J00916,A0184,OTP,Completed,14,NULL
+J00917,A0184,"Document Upload",Completed,44,NULL
+J00918,A0184,OCR,Completed,19,NULL
+J00919,A0184,"Video KYC",Completed,44,NULL
+J00920,A0184,Compliance,Completed,54,NULL
+J00921,A0185,OTP,Completed,15,NULL
+J00922,A0185,"Document Upload",Completed,45,NULL
+J00923,A0185,OCR,Completed,20,NULL
+J00924,A0185,"Video KYC",Completed,45,NULL
+J00925,A0185,Compliance,Completed,55,NULL
+J00926,A0186,OTP,Completed,16,NULL
+J00927,A0186,"Document Upload",Completed,46,NULL
+J00928,A0186,OCR,Completed,21,NULL
+J00929,A0186,"Video KYC",Completed,46,NULL
+J00930,A0186,Compliance,Completed,56,NULL
+J00931,A0187,OTP,Completed,17,NULL
+J00932,A0187,"Document Upload",Completed,47,NULL
+J00933,A0187,OCR,Completed,22,NULL
+J00934,A0187,"Video KYC",Completed,47,NULL
+J00935,A0187,Compliance,Completed,57,NULL
+J00936,A0188,OTP,Completed,18,NULL
+J00937,A0188,"Document Upload",Completed,48,NULL
+J00938,A0188,OCR,Completed,23,NULL
+J00939,A0188,"Video KYC",Completed,48,NULL
+J00940,A0188,Compliance,Completed,58,NULL
+J00941,A0189,OTP,Completed,19,NULL
+J00942,A0189,"Document Upload",Completed,49,NULL
+J00943,A0189,OCR,Completed,24,NULL
+J00944,A0189,"Video KYC",Completed,49,NULL
+J00945,A0189,Compliance,Completed,59,NULL
+J00946,A0190,OTP,Completed,20,NULL
+J00947,A0190,"Document Upload",Completed,50,NULL
+J00948,A0190,OCR,Completed,25,NULL
+J00949,A0190,"Video KYC",Completed,50,NULL
+J00950,A0190,Compliance,Completed,60,NULL
+J00951,A0191,OTP,Completed,21,NULL
+J00952,A0191,"Document Upload",Completed,51,NULL
+J00953,A0191,OCR,Completed,26,NULL
+J00954,A0191,"Video KYC",Completed,51,NULL
+J00955,A0191,Compliance,Completed,61,NULL
+J00956,A0192,OTP,Completed,22,NULL
+J00957,A0192,"Document Upload",Completed,52,NULL
+J00958,A0192,OCR,Completed,27,NULL
+J00959,A0192,"Video KYC",Pending,52,NULL
+J00960,A0192,Compliance,Completed,62,NULL
+J00961,A0193,OTP,Completed,23,NULL
+J00962,A0193,"Document Upload",Completed,53,NULL
+J00963,A0193,OCR,Completed,28,NULL
+J00964,A0193,"Video KYC",Completed,53,NULL
+J00965,A0193,Compliance,Completed,63,NULL
+J00966,A0194,OTP,Completed,24,NULL
+J00967,A0194,"Document Upload",Completed,54,NULL
+J00968,A0194,OCR,Completed,29,NULL
+J00969,A0194,"Video KYC",Completed,54,NULL
+J00970,A0194,Compliance,Completed,64,NULL
+J00971,A0195,OTP,Completed,25,NULL
+J00972,A0195,"Document Upload",Failed,55,"Blurry Document"
+J00973,A0195,OCR,Completed,30,NULL
+J00974,A0195,"Video KYC",Completed,55,NULL
+J00975,A0195,Compliance,Completed,65,NULL
+J00976,A0196,OTP,Completed,26,NULL
+J00977,A0196,"Document Upload",Completed,56,NULL
+J00978,A0196,OCR,Completed,31,NULL
+J00979,A0196,"Video KYC",Completed,56,NULL
+J00980,A0196,Compliance,Completed,66,NULL
+J00981,A0197,OTP,Completed,27,NULL
+J00982,A0197,"Document Upload",Completed,57,NULL
+J00983,A0197,OCR,Completed,32,NULL
+J00984,A0197,"Video KYC",Completed,57,NULL
+J00985,A0197,Compliance,Completed,67,NULL
+J00986,A0198,OTP,Completed,28,NULL
+J00987,A0198,"Document Upload",Completed,58,NULL
+J00988,A0198,OCR,Failed,33,"OCR Extraction Failed"
+J00989,A0198,"Video KYC",Completed,58,NULL
+J00990,A0198,Compliance,Completed,68,NULL
+J00991,A0199,OTP,Completed,29,NULL
+J00992,A0199,"Document Upload",Completed,59,NULL
+J00993,A0199,OCR,Completed,34,NULL
+J00994,A0199,"Video KYC",Completed,59,NULL
+J00995,A0199,Compliance,Completed,69,NULL
+J00996,A0200,OTP,Failed,10,"OTP Timeout"
+J00997,A0200,"Document Upload",Completed,20,NULL
+J00998,A0200,OCR,Completed,35,NULL
+J00999,A0200,"Video KYC",Failed,60,"Customer Not Available"
+J01000,A0200,Compliance,Completed,30,NULL

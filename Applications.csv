@@ -1,0 +1,501 @@
+Application_id,Customer_id,Account_type,Application_date,Application_start_time,Final_status,Current_stage,Failed_stage,Total_processing_time,Application_channel,Resume_after_exit
+A0001,C0001,Current,2025-01-02,09:00:01,Completed,Completed,OTP,61,Website,no
+A0002,C0002,Salaried,2025-01-03,09:00:02,Completed,Completed,OTP,62,"Mobile App",no
+A0003,C0003,Savings,2025-01-04,09:00:03,Completed,Completed,OTP,63,Website,no
+A0004,C0004,Current,2025-01-05,09:00:04,Completed,Completed,OTP,64,"Mobile App",no
+A0005,C0005,Salaried,2025-01-06,09:00:05,Completed,Completed,OTP,65,Website,no
+A0006,C0006,Savings,2025-01-07,09:00:06,Completed,Completed,OTP,66,"Mobile App",no
+A0007,C0007,Current,2025-01-08,09:00:07,Rejected,Compliance,Compliance,67,Website,no
+A0008,C0008,Salaried,2025-01-09,09:00:08,Abandoned,"Video KYC","Video KYC",68,"Mobile App",yes
+A0009,C0009,Savings,2025-01-10,09:00:09,Progress,OCR,OTP,69,Website,no
+A0010,C0010,Current,2025-01-11,09:00:10,Completed,Completed,OTP,70,"Mobile App",no
+A0011,C0011,Salaried,2025-01-12,09:00:11,Completed,Completed,OTP,71,Website,no
+A0012,C0012,Savings,2025-01-13,09:00:12,Completed,Completed,OTP,72,"Mobile App",no
+A0013,C0013,Current,2025-01-14,09:00:13,Completed,Completed,OTP,73,Website,no
+A0014,C0014,Salaried,2025-01-15,09:00:14,Completed,Completed,OTP,74,"Mobile App",no
+A0015,C0015,Savings,2025-01-16,09:00:15,Completed,Completed,OTP,75,Website,no
+A0016,C0016,Current,2025-01-17,09:00:16,Completed,Completed,OTP,76,"Mobile App",yes
+A0017,C0017,Salaried,2025-01-18,09:00:17,Rejected,Compliance,Compliance,77,Website,no
+A0018,C0018,Savings,2025-01-19,09:00:18,Abandoned,"Video KYC","Video KYC",78,"Mobile App",no
+A0019,C0019,Current,2025-01-20,09:00:19,Progress,OCR,OTP,79,Website,no
+A0020,C0020,Salaried,2025-01-21,09:00:20,Completed,Completed,OTP,80,"Mobile App",no
+A0021,C0021,Savings,2025-01-22,09:00:21,Completed,Completed,OTP,81,Website,no
+A0022,C0022,Current,2025-01-23,09:00:22,Completed,Completed,OTP,82,"Mobile App",no
+A0023,C0023,Salaried,2025-01-24,09:00:23,Completed,Completed,OTP,83,Website,no
+A0024,C0024,Savings,2025-01-25,09:00:24,Completed,Completed,OTP,84,"Mobile App",yes
+A0025,C0025,Current,2025-01-26,09:00:25,Completed,Completed,OTP,85,Website,no
+A0026,C0026,Salaried,2025-01-27,09:00:26,Completed,Completed,OTP,86,"Mobile App",no
+A0027,C0027,Savings,2025-01-28,09:00:27,Rejected,Compliance,Compliance,87,Website,no
+A0028,C0028,Current,2025-01-29,09:00:28,Abandoned,"Video KYC","Video KYC",88,"Mobile App",no
+A0029,C0029,Salaried,2025-01-30,09:00:29,Progress,OCR,OTP,89,Website,no
+A0030,C0030,Savings,2025-01-31,09:00:30,Completed,Completed,OTP,90,"Mobile App",no
+A0031,C0031,Current,2025-02-01,09:00:31,Completed,Completed,OTP,91,Website,no
+A0032,C0032,Salaried,2025-02-02,09:00:32,Completed,Completed,OTP,92,"Mobile App",yes
+A0033,C0033,Savings,2025-02-03,09:00:33,Completed,Completed,OTP,93,Website,no
+A0034,C0034,Current,2025-02-04,09:00:34,Completed,Completed,OTP,94,"Mobile App",no
+A0035,C0035,Salaried,2025-02-05,09:00:35,Completed,Completed,OTP,95,Website,no
+A0036,C0036,Savings,2025-02-06,09:00:36,Completed,Completed,OTP,96,"Mobile App",no
+A0037,C0037,Current,2025-02-07,09:00:37,Rejected,Compliance,Compliance,97,Website,no
+A0038,C0038,Salaried,2025-02-08,09:00:38,Abandoned,"Video KYC","Video KYC",98,"Mobile App",no
+A0039,C0039,Savings,2025-02-09,09:00:39,Progress,OCR,OTP,99,Website,no
+A0040,C0040,Current,2025-02-10,09:00:40,Completed,Completed,OTP,100,"Mobile App",yes
+A0041,C0041,Salaried,2025-02-11,09:00:41,Completed,Completed,OTP,101,Website,no
+A0042,C0042,Savings,2025-02-12,09:00:42,Completed,Completed,OTP,102,"Mobile App",no
+A0043,C0043,Current,2025-02-13,09:00:43,Completed,Completed,OTP,103,Website,no
+A0044,C0044,Salaried,2025-02-14,09:00:44,Completed,Completed,OTP,104,"Mobile App",no
+A0045,C0045,Savings,2025-02-15,09:00:45,Completed,Completed,OTP,105,Website,no
+A0046,C0046,Current,2025-02-16,09:00:46,Completed,Completed,OTP,106,"Mobile App",no
+A0047,C0047,Salaried,2025-02-17,09:00:47,Rejected,Compliance,Compliance,107,Website,no
+A0048,C0048,Savings,2025-02-18,09:00:48,Abandoned,"Video KYC","Video KYC",108,"Mobile App",yes
+A0049,C0049,Current,2025-02-19,09:00:49,Progress,OCR,OTP,109,Website,no
+A0050,C0050,Salaried,2025-02-20,09:00:50,Completed,Completed,OTP,110,"Mobile App",no
+A0051,C0051,Savings,2025-02-21,09:00:51,Completed,Completed,OTP,111,Website,no
+A0052,C0052,Current,2025-02-22,09:00:52,Completed,Completed,OTP,112,"Mobile App",no
+A0053,C0053,Salaried,2025-02-23,09:00:53,Completed,Completed,OTP,113,Website,no
+A0054,C0054,Savings,2025-02-24,09:00:54,Completed,Completed,OTP,114,"Mobile App",no
+A0055,C0055,Current,2025-02-25,09:00:55,Completed,Completed,OTP,115,Website,no
+A0056,C0056,Salaried,2025-02-26,09:00:56,Completed,Completed,OTP,116,"Mobile App",yes
+A0057,C0057,Savings,2025-02-27,09:00:57,Rejected,Compliance,Compliance,117,Website,no
+A0058,C0058,Current,2025-02-28,09:00:58,Abandoned,"Video KYC","Video KYC",118,"Mobile App",no
+A0059,C0059,Salaried,2025-03-01,09:00:59,Progress,OCR,OTP,119,Website,no
+A0060,C0060,Savings,2025-03-02,09:01:00,Completed,Completed,OTP,120,"Mobile App",no
+A0061,C0061,Current,2025-03-03,09:01:01,Completed,Completed,OTP,121,Website,no
+A0062,C0062,Salaried,2025-03-04,09:01:02,Completed,Completed,OTP,122,"Mobile App",no
+A0063,C0063,Savings,2025-03-05,09:01:03,Completed,Completed,OTP,123,Website,no
+A0064,C0064,Current,2025-03-06,09:01:04,Completed,Completed,OTP,124,"Mobile App",yes
+A0065,C0065,Salaried,2025-03-07,09:01:05,Completed,Completed,OTP,125,Website,no
+A0066,C0066,Savings,2025-03-08,09:01:06,Completed,Completed,OTP,126,"Mobile App",no
+A0067,C0067,Current,2025-03-09,09:01:07,Rejected,Compliance,Compliance,127,Website,no
+A0068,C0068,Salaried,2025-03-10,09:01:08,Abandoned,"Video KYC","Video KYC",128,"Mobile App",no
+A0069,C0069,Savings,2025-03-11,09:01:09,Progress,OCR,OTP,129,Website,no
+A0070,C0070,Current,2025-03-12,09:01:10,Completed,Completed,OTP,130,"Mobile App",no
+A0071,C0071,Salaried,2025-03-13,09:01:11,Completed,Completed,OTP,131,Website,no
+A0072,C0072,Savings,2025-03-14,09:01:12,Completed,Completed,OTP,132,"Mobile App",yes
+A0073,C0073,Current,2025-03-15,09:01:13,Completed,Completed,OTP,133,Website,no
+A0074,C0074,Salaried,2025-03-16,09:01:14,Completed,Completed,OTP,134,"Mobile App",no
+A0075,C0075,Savings,2025-03-17,09:01:15,Completed,Completed,OTP,135,Website,no
+A0076,C0076,Current,2025-03-18,09:01:16,Completed,Completed,OTP,136,"Mobile App",no
+A0077,C0077,Salaried,2025-03-19,09:01:17,Rejected,Compliance,Compliance,137,Website,no
+A0078,C0078,Savings,2025-03-20,09:01:18,Abandoned,"Video KYC","Video KYC",138,"Mobile App",no
+A0079,C0079,Current,2025-03-21,09:01:19,Progress,OCR,OTP,139,Website,no
+A0080,C0080,Salaried,2025-03-22,09:01:20,Completed,Completed,OTP,140,"Mobile App",yes
+A0081,C0081,Savings,2025-03-23,09:01:21,Completed,Completed,OTP,141,Website,no
+A0082,C0082,Current,2025-03-24,09:01:22,Completed,Completed,OTP,142,"Mobile App",no
+A0083,C0083,Salaried,2025-03-25,09:01:23,Completed,Completed,OTP,143,Website,no
+A0084,C0084,Savings,2025-03-26,09:01:24,Completed,Completed,OTP,144,"Mobile App",no
+A0085,C0085,Current,2025-03-27,09:01:25,Completed,Completed,OTP,145,Website,no
+A0086,C0086,Salaried,2025-03-28,09:01:26,Completed,Completed,OTP,146,"Mobile App",no
+A0087,C0087,Savings,2025-03-29,09:01:27,Rejected,Compliance,Compliance,147,Website,no
+A0088,C0088,Current,2025-03-30,09:01:28,Abandoned,"Video KYC","Video KYC",148,"Mobile App",yes
+A0089,C0089,Salaried,2025-03-31,09:01:29,Progress,OCR,OTP,149,Website,no
+A0090,C0090,Savings,2025-04-01,09:01:30,Completed,Completed,OTP,150,"Mobile App",no
+A0091,C0091,Current,2025-04-02,09:01:31,Completed,Completed,OTP,151,Website,no
+A0092,C0092,Salaried,2025-04-03,09:01:32,Completed,Completed,OTP,152,"Mobile App",no
+A0093,C0093,Savings,2025-04-04,09:01:33,Completed,Completed,OTP,153,Website,no
+A0094,C0094,Current,2025-04-05,09:01:34,Completed,Completed,OTP,154,"Mobile App",no
+A0095,C0095,Salaried,2025-04-06,09:01:35,Completed,Completed,OTP,155,Website,no
+A0096,C0096,Savings,2025-04-07,09:01:36,Completed,Completed,OTP,156,"Mobile App",yes
+A0097,C0097,Current,2025-04-08,09:01:37,Rejected,Compliance,Compliance,157,Website,no
+A0098,C0098,Salaried,2025-04-09,09:01:38,Abandoned,"Video KYC","Video KYC",158,"Mobile App",no
+A0099,C0099,Savings,2025-04-10,09:01:39,Progress,OCR,OTP,159,Website,no
+A0100,C0100,Current,2025-04-11,09:01:40,Completed,Completed,OTP,160,"Mobile App",no
+A0101,C0101,Salaried,2025-04-12,09:01:41,Completed,Completed,OTP,161,Website,no
+A0102,C0102,Savings,2025-04-13,09:01:42,Completed,Completed,OTP,162,"Mobile App",no
+A0103,C0103,Current,2025-04-14,09:01:43,Completed,Completed,OTP,163,Website,no
+A0104,C0104,Salaried,2025-04-15,09:01:44,Completed,Completed,OTP,164,"Mobile App",yes
+A0105,C0105,Savings,2025-04-16,09:01:45,Completed,Completed,OTP,165,Website,no
+A0106,C0106,Current,2025-04-17,09:01:46,Completed,Completed,OTP,166,"Mobile App",no
+A0107,C0107,Salaried,2025-04-18,09:01:47,Rejected,Compliance,Compliance,167,Website,no
+A0108,C0108,Savings,2025-04-19,09:01:48,Abandoned,"Video KYC","Video KYC",168,"Mobile App",no
+A0109,C0109,Current,2025-04-20,09:01:49,Progress,OCR,OTP,169,Website,no
+A0110,C0110,Salaried,2025-04-21,09:01:50,Completed,Completed,OTP,170,"Mobile App",no
+A0111,C0111,Savings,2025-04-22,09:01:51,Completed,Completed,OTP,171,Website,no
+A0112,C0112,Current,2025-04-23,09:01:52,Completed,Completed,OTP,172,"Mobile App",yes
+A0113,C0113,Salaried,2025-04-24,09:01:53,Completed,Completed,OTP,173,Website,no
+A0114,C0114,Savings,2025-04-25,09:01:54,Completed,Completed,OTP,174,"Mobile App",no
+A0115,C0115,Current,2025-04-26,09:01:55,Completed,Completed,OTP,175,Website,no
+A0116,C0116,Salaried,2025-04-27,09:01:56,Completed,Completed,OTP,176,"Mobile App",no
+A0117,C0117,Savings,2025-04-28,09:01:57,Rejected,Compliance,Compliance,177,Website,no
+A0118,C0118,Current,2025-04-29,09:01:58,Abandoned,"Video KYC","Video KYC",178,"Mobile App",no
+A0119,C0119,Salaried,2025-04-30,09:01:59,Progress,OCR,OTP,179,Website,no
+A0120,C0120,Savings,2025-05-01,09:02:00,Completed,Completed,OTP,180,"Mobile App",yes
+A0121,C0121,Current,2025-05-02,09:02:01,Completed,Completed,OTP,181,Website,no
+A0122,C0122,Salaried,2025-05-03,09:02:02,Completed,Completed,OTP,182,"Mobile App",no
+A0123,C0123,Savings,2025-05-04,09:02:03,Completed,Completed,OTP,183,Website,no
+A0124,C0124,Current,2025-05-05,09:02:04,Completed,Completed,OTP,184,"Mobile App",no
+A0125,C0125,Salaried,2025-05-06,09:02:05,Completed,Completed,OTP,185,Website,no
+A0126,C0126,Savings,2025-05-07,09:02:06,Completed,Completed,OTP,186,"Mobile App",no
+A0127,C0127,Current,2025-05-08,09:02:07,Rejected,Compliance,Compliance,187,Website,no
+A0128,C0128,Salaried,2025-05-09,09:02:08,Abandoned,"Video KYC","Video KYC",188,"Mobile App",yes
+A0129,C0129,Savings,2025-05-10,09:02:09,Progress,OCR,OTP,189,Website,no
+A0130,C0130,Current,2025-05-11,09:02:10,Completed,Completed,OTP,190,"Mobile App",no
+A0131,C0131,Salaried,2025-05-12,09:02:11,Completed,Completed,OTP,191,Website,no
+A0132,C0132,Savings,2025-05-13,09:02:12,Completed,Completed,OTP,192,"Mobile App",no
+A0133,C0133,Current,2025-05-14,09:02:13,Completed,Completed,OTP,193,Website,no
+A0134,C0134,Salaried,2025-05-15,09:02:14,Completed,Completed,OTP,194,"Mobile App",no
+A0135,C0135,Savings,2025-05-16,09:02:15,Completed,Completed,OTP,195,Website,no
+A0136,C0136,Current,2025-05-17,09:02:16,Completed,Completed,OTP,196,"Mobile App",yes
+A0137,C0137,Salaried,2025-05-18,09:02:17,Rejected,Compliance,Compliance,197,Website,no
+A0138,C0138,Savings,2025-05-19,09:02:18,Abandoned,"Video KYC","Video KYC",198,"Mobile App",no
+A0139,C0139,Current,2025-05-20,09:02:19,Progress,OCR,OTP,199,Website,no
+A0140,C0140,Salaried,2025-05-21,09:02:20,Completed,Completed,OTP,200,"Mobile App",no
+A0141,C0141,Savings,2025-05-22,09:02:21,Completed,Completed,OTP,201,Website,no
+A0142,C0142,Current,2025-05-23,09:02:22,Completed,Completed,OTP,202,"Mobile App",no
+A0143,C0143,Salaried,2025-05-24,09:02:23,Completed,Completed,OTP,203,Website,no
+A0144,C0144,Savings,2025-05-25,09:02:24,Completed,Completed,OTP,204,"Mobile App",yes
+A0145,C0145,Current,2025-05-26,09:02:25,Completed,Completed,OTP,205,Website,no
+A0146,C0146,Salaried,2025-05-27,09:02:26,Completed,Completed,OTP,206,"Mobile App",no
+A0147,C0147,Savings,2025-05-28,09:02:27,Rejected,Compliance,Compliance,207,Website,no
+A0148,C0148,Current,2025-05-29,09:02:28,Abandoned,"Video KYC","Video KYC",208,"Mobile App",no
+A0149,C0149,Salaried,2025-05-30,09:02:29,Progress,OCR,OTP,209,Website,no
+A0150,C0150,Savings,2025-05-31,09:02:30,Completed,Completed,OTP,210,"Mobile App",no
+A0151,C0151,Current,2025-06-01,09:02:31,Completed,Completed,OTP,211,Website,no
+A0152,C0152,Salaried,2025-06-02,09:02:32,Completed,Completed,OTP,212,"Mobile App",yes
+A0153,C0153,Savings,2025-06-03,09:02:33,Completed,Completed,OTP,213,Website,no
+A0154,C0154,Current,2025-06-04,09:02:34,Completed,Completed,OTP,214,"Mobile App",no
+A0155,C0155,Salaried,2025-06-05,09:02:35,Completed,Completed,OTP,215,Website,no
+A0156,C0156,Savings,2025-06-06,09:02:36,Completed,Completed,OTP,216,"Mobile App",no
+A0157,C0157,Current,2025-06-07,09:02:37,Rejected,Compliance,Compliance,217,Website,no
+A0158,C0158,Salaried,2025-06-08,09:02:38,Abandoned,"Video KYC","Video KYC",218,"Mobile App",no
+A0159,C0159,Savings,2025-06-09,09:02:39,Progress,OCR,OTP,219,Website,no
+A0160,C0160,Current,2025-06-10,09:02:40,Completed,Completed,OTP,220,"Mobile App",yes
+A0161,C0161,Salaried,2025-06-11,09:02:41,Completed,Completed,OTP,221,Website,no
+A0162,C0162,Savings,2025-06-12,09:02:42,Completed,Completed,OTP,222,"Mobile App",no
+A0163,C0163,Current,2025-06-13,09:02:43,Completed,Completed,OTP,223,Website,no
+A0164,C0164,Salaried,2025-06-14,09:02:44,Completed,Completed,OTP,224,"Mobile App",no
+A0165,C0165,Savings,2025-06-15,09:02:45,Completed,Completed,OTP,225,Website,no
+A0166,C0166,Current,2025-06-16,09:02:46,Completed,Completed,OTP,226,"Mobile App",no
+A0167,C0167,Salaried,2025-06-17,09:02:47,Rejected,Compliance,Compliance,227,Website,no
+A0168,C0168,Savings,2025-06-18,09:02:48,Abandoned,"Video KYC","Video KYC",228,"Mobile App",yes
+A0169,C0169,Current,2025-06-19,09:02:49,Progress,OCR,OTP,229,Website,no
+A0170,C0170,Salaried,2025-06-20,09:02:50,Completed,Completed,OTP,230,"Mobile App",no
+A0171,C0171,Savings,2025-06-21,09:02:51,Completed,Completed,OTP,231,Website,no
+A0172,C0172,Current,2025-06-22,09:02:52,Completed,Completed,OTP,232,"Mobile App",no
+A0173,C0173,Salaried,2025-06-23,09:02:53,Completed,Completed,OTP,233,Website,no
+A0174,C0174,Savings,2025-06-24,09:02:54,Completed,Completed,OTP,234,"Mobile App",no
+A0175,C0175,Current,2025-06-25,09:02:55,Completed,Completed,OTP,235,Website,no
+A0176,C0176,Salaried,2025-06-26,09:02:56,Completed,Completed,OTP,236,"Mobile App",yes
+A0177,C0177,Savings,2025-06-27,09:02:57,Rejected,Compliance,Compliance,237,Website,no
+A0178,C0178,Current,2025-06-28,09:02:58,Abandoned,"Video KYC","Video KYC",238,"Mobile App",no
+A0179,C0179,Salaried,2025-06-29,09:02:59,Progress,OCR,OTP,239,Website,no
+A0180,C0180,Savings,2025-01-01,09:03:00,Completed,Completed,OTP,240,"Mobile App",no
+A0181,C0181,Current,2025-01-02,09:03:01,Completed,Completed,OTP,241,Website,no
+A0182,C0182,Salaried,2025-01-03,09:03:02,Completed,Completed,OTP,242,"Mobile App",no
+A0183,C0183,Savings,2025-01-04,09:03:03,Completed,Completed,OTP,243,Website,no
+A0184,C0184,Current,2025-01-05,09:03:04,Completed,Completed,OTP,244,"Mobile App",yes
+A0185,C0185,Salaried,2025-01-06,09:03:05,Completed,Completed,OTP,245,Website,no
+A0186,C0186,Savings,2025-01-07,09:03:06,Completed,Completed,OTP,246,"Mobile App",no
+A0187,C0187,Current,2025-01-08,09:03:07,Rejected,Compliance,Compliance,247,Website,no
+A0188,C0188,Salaried,2025-01-09,09:03:08,Abandoned,"Video KYC","Video KYC",248,"Mobile App",no
+A0189,C0189,Savings,2025-01-10,09:03:09,Progress,OCR,OTP,249,Website,no
+A0190,C0190,Current,2025-01-11,09:03:10,Completed,Completed,OTP,250,"Mobile App",no
+A0191,C0191,Salaried,2025-01-12,09:03:11,Completed,Completed,OTP,251,Website,no
+A0192,C0192,Savings,2025-01-13,09:03:12,Completed,Completed,OTP,252,"Mobile App",yes
+A0193,C0193,Current,2025-01-14,09:03:13,Completed,Completed,OTP,253,Website,no
+A0194,C0194,Salaried,2025-01-15,09:03:14,Completed,Completed,OTP,254,"Mobile App",no
+A0195,C0195,Savings,2025-01-16,09:03:15,Completed,Completed,OTP,255,Website,no
+A0196,C0196,Current,2025-01-17,09:03:16,Completed,Completed,OTP,256,"Mobile App",no
+A0197,C0197,Salaried,2025-01-18,09:03:17,Rejected,Compliance,Compliance,257,Website,no
+A0198,C0198,Savings,2025-01-19,09:03:18,Abandoned,"Video KYC","Video KYC",258,"Mobile App",no
+A0199,C0199,Current,2025-01-20,09:03:19,Progress,OCR,OTP,259,Website,no
+A0200,C0200,Salaried,2025-01-21,09:03:20,Completed,Completed,OTP,260,"Mobile App",yes
+A0201,C0201,Savings,2025-01-22,09:03:21,Completed,Completed,OTP,261,Website,no
+A0202,C0202,Current,2025-01-23,09:03:22,Completed,Completed,OTP,262,"Mobile App",no
+A0203,C0203,Salaried,2025-01-24,09:03:23,Completed,Completed,OTP,263,Website,no
+A0204,C0204,Savings,2025-01-25,09:03:24,Completed,Completed,OTP,264,"Mobile App",no
+A0205,C0205,Current,2025-01-26,09:03:25,Completed,Completed,OTP,265,Website,no
+A0206,C0206,Salaried,2025-01-27,09:03:26,Completed,Completed,OTP,266,"Mobile App",no
+A0207,C0207,Savings,2025-01-28,09:03:27,Rejected,Compliance,Compliance,267,Website,no
+A0208,C0208,Current,2025-01-29,09:03:28,Abandoned,"Video KYC","Video KYC",268,"Mobile App",yes
+A0209,C0209,Salaried,2025-01-30,09:03:29,Progress,OCR,OTP,269,Website,no
+A0210,C0210,Savings,2025-01-31,09:03:30,Completed,Completed,OTP,270,"Mobile App",no
+A0211,C0211,Current,2025-02-01,09:03:31,Completed,Completed,OTP,271,Website,no
+A0212,C0212,Salaried,2025-02-02,09:03:32,Completed,Completed,OTP,272,"Mobile App",no
+A0213,C0213,Savings,2025-02-03,09:03:33,Completed,Completed,OTP,273,Website,no
+A0214,C0214,Current,2025-02-04,09:03:34,Completed,Completed,OTP,274,"Mobile App",no
+A0215,C0215,Salaried,2025-02-05,09:03:35,Completed,Completed,OTP,275,Website,no
+A0216,C0216,Savings,2025-02-06,09:03:36,Completed,Completed,OTP,276,"Mobile App",yes
+A0217,C0217,Current,2025-02-07,09:03:37,Rejected,Compliance,Compliance,277,Website,no
+A0218,C0218,Salaried,2025-02-08,09:03:38,Abandoned,"Video KYC","Video KYC",278,"Mobile App",no
+A0219,C0219,Savings,2025-02-09,09:03:39,Progress,OCR,OTP,279,Website,no
+A0220,C0220,Current,2025-02-10,09:03:40,Completed,Completed,OTP,280,"Mobile App",no
+A0221,C0221,Salaried,2025-02-11,09:03:41,Completed,Completed,OTP,281,Website,no
+A0222,C0222,Savings,2025-02-12,09:03:42,Completed,Completed,OTP,282,"Mobile App",no
+A0223,C0223,Current,2025-02-13,09:03:43,Completed,Completed,OTP,283,Website,no
+A0224,C0224,Salaried,2025-02-14,09:03:44,Completed,Completed,OTP,284,"Mobile App",yes
+A0225,C0225,Savings,2025-02-15,09:03:45,Completed,Completed,OTP,285,Website,no
+A0226,C0226,Current,2025-02-16,09:03:46,Completed,Completed,OTP,286,"Mobile App",no
+A0227,C0227,Salaried,2025-02-17,09:03:47,Rejected,Compliance,Compliance,287,Website,no
+A0228,C0228,Savings,2025-02-18,09:03:48,Abandoned,"Video KYC","Video KYC",288,"Mobile App",no
+A0229,C0229,Current,2025-02-19,09:03:49,Progress,OCR,OTP,289,Website,no
+A0230,C0230,Salaried,2025-02-20,09:03:50,Completed,Completed,OTP,290,"Mobile App",no
+A0231,C0231,Savings,2025-02-21,09:03:51,Completed,Completed,OTP,291,Website,no
+A0232,C0232,Current,2025-02-22,09:03:52,Completed,Completed,OTP,292,"Mobile App",yes
+A0233,C0233,Salaried,2025-02-23,09:03:53,Completed,Completed,OTP,293,Website,no
+A0234,C0234,Savings,2025-02-24,09:03:54,Completed,Completed,OTP,294,"Mobile App",no
+A0235,C0235,Current,2025-02-25,09:03:55,Completed,Completed,OTP,295,Website,no
+A0236,C0236,Salaried,2025-02-26,09:03:56,Completed,Completed,OTP,296,"Mobile App",no
+A0237,C0237,Savings,2025-02-27,09:03:57,Rejected,Compliance,Compliance,297,Website,no
+A0238,C0238,Current,2025-02-28,09:03:58,Abandoned,"Video KYC","Video KYC",298,"Mobile App",no
+A0239,C0239,Salaried,2025-03-01,09:03:59,Progress,OCR,OTP,299,Website,no
+A0240,C0240,Savings,2025-03-02,09:04:00,Completed,Completed,OTP,60,"Mobile App",yes
+A0241,C0241,Current,2025-03-03,09:04:01,Completed,Completed,OTP,61,Website,no
+A0242,C0242,Salaried,2025-03-04,09:04:02,Completed,Completed,OTP,62,"Mobile App",no
+A0243,C0243,Savings,2025-03-05,09:04:03,Completed,Completed,OTP,63,Website,no
+A0244,C0244,Current,2025-03-06,09:04:04,Completed,Completed,OTP,64,"Mobile App",no
+A0245,C0245,Salaried,2025-03-07,09:04:05,Completed,Completed,OTP,65,Website,no
+A0246,C0246,Savings,2025-03-08,09:04:06,Completed,Completed,OTP,66,"Mobile App",no
+A0247,C0247,Current,2025-03-09,09:04:07,Rejected,Compliance,Compliance,67,Website,no
+A0248,C0248,Salaried,2025-03-10,09:04:08,Abandoned,"Video KYC","Video KYC",68,"Mobile App",yes
+A0249,C0249,Savings,2025-03-11,09:04:09,Progress,OCR,OTP,69,Website,no
+A0250,C0250,Current,2025-03-12,09:04:10,Completed,Completed,OTP,70,"Mobile App",no
+A0251,C0251,Salaried,2025-03-13,09:04:11,Completed,Completed,OTP,71,Website,no
+A0252,C0252,Savings,2025-03-14,09:04:12,Completed,Completed,OTP,72,"Mobile App",no
+A0253,C0253,Current,2025-03-15,09:04:13,Completed,Completed,OTP,73,Website,no
+A0254,C0254,Salaried,2025-03-16,09:04:14,Completed,Completed,OTP,74,"Mobile App",no
+A0255,C0255,Savings,2025-03-17,09:04:15,Completed,Completed,OTP,75,Website,no
+A0256,C0256,Current,2025-03-18,09:04:16,Completed,Completed,OTP,76,"Mobile App",yes
+A0257,C0257,Salaried,2025-03-19,09:04:17,Rejected,Compliance,Compliance,77,Website,no
+A0258,C0258,Savings,2025-03-20,09:04:18,Abandoned,"Video KYC","Video KYC",78,"Mobile App",no
+A0259,C0259,Current,2025-03-21,09:04:19,Progress,OCR,OTP,79,Website,no
+A0260,C0260,Salaried,2025-03-22,09:04:20,Completed,Completed,OTP,80,"Mobile App",no
+A0261,C0261,Savings,2025-03-23,09:04:21,Completed,Completed,OTP,81,Website,no
+A0262,C0262,Current,2025-03-24,09:04:22,Completed,Completed,OTP,82,"Mobile App",no
+A0263,C0263,Salaried,2025-03-25,09:04:23,Completed,Completed,OTP,83,Website,no
+A0264,C0264,Savings,2025-03-26,09:04:24,Completed,Completed,OTP,84,"Mobile App",yes
+A0265,C0265,Current,2025-03-27,09:04:25,Completed,Completed,OTP,85,Website,no
+A0266,C0266,Salaried,2025-03-28,09:04:26,Completed,Completed,OTP,86,"Mobile App",no
+A0267,C0267,Savings,2025-03-29,09:04:27,Rejected,Compliance,Compliance,87,Website,no
+A0268,C0268,Current,2025-03-30,09:04:28,Abandoned,"Video KYC","Video KYC",88,"Mobile App",no
+A0269,C0269,Salaried,2025-03-31,09:04:29,Progress,OCR,OTP,89,Website,no
+A0270,C0270,Savings,2025-04-01,09:04:30,Completed,Completed,OTP,90,"Mobile App",no
+A0271,C0271,Current,2025-04-02,09:04:31,Completed,Completed,OTP,91,Website,no
+A0272,C0272,Salaried,2025-04-03,09:04:32,Completed,Completed,OTP,92,"Mobile App",yes
+A0273,C0273,Savings,2025-04-04,09:04:33,Completed,Completed,OTP,93,Website,no
+A0274,C0274,Current,2025-04-05,09:04:34,Completed,Completed,OTP,94,"Mobile App",no
+A0275,C0275,Salaried,2025-04-06,09:04:35,Completed,Completed,OTP,95,Website,no
+A0276,C0276,Savings,2025-04-07,09:04:36,Completed,Completed,OTP,96,"Mobile App",no
+A0277,C0277,Current,2025-04-08,09:04:37,Rejected,Compliance,Compliance,97,Website,no
+A0278,C0278,Salaried,2025-04-09,09:04:38,Abandoned,"Video KYC","Video KYC",98,"Mobile App",no
+A0279,C0279,Savings,2025-04-10,09:04:39,Progress,OCR,OTP,99,Website,no
+A0280,C0280,Current,2025-04-11,09:04:40,Completed,Completed,OTP,100,"Mobile App",yes
+A0281,C0281,Salaried,2025-04-12,09:04:41,Completed,Completed,OTP,101,Website,no
+A0282,C0282,Savings,2025-04-13,09:04:42,Completed,Completed,OTP,102,"Mobile App",no
+A0283,C0283,Current,2025-04-14,09:04:43,Completed,Completed,OTP,103,Website,no
+A0284,C0284,Salaried,2025-04-15,09:04:44,Completed,Completed,OTP,104,"Mobile App",no
+A0285,C0285,Savings,2025-04-16,09:04:45,Completed,Completed,OTP,105,Website,no
+A0286,C0286,Current,2025-04-17,09:04:46,Completed,Completed,OTP,106,"Mobile App",no
+A0287,C0287,Salaried,2025-04-18,09:04:47,Rejected,Compliance,Compliance,107,Website,no
+A0288,C0288,Savings,2025-04-19,09:04:48,Abandoned,"Video KYC","Video KYC",108,"Mobile App",yes
+A0289,C0289,Current,2025-04-20,09:04:49,Progress,OCR,OTP,109,Website,no
+A0290,C0290,Salaried,2025-04-21,09:04:50,Completed,Completed,OTP,110,"Mobile App",no
+A0291,C0291,Savings,2025-04-22,09:04:51,Completed,Completed,OTP,111,Website,no
+A0292,C0292,Current,2025-04-23,09:04:52,Completed,Completed,OTP,112,"Mobile App",no
+A0293,C0293,Salaried,2025-04-24,09:04:53,Completed,Completed,OTP,113,Website,no
+A0294,C0294,Savings,2025-04-25,09:04:54,Completed,Completed,OTP,114,"Mobile App",no
+A0295,C0295,Current,2025-04-26,09:04:55,Completed,Completed,OTP,115,Website,no
+A0296,C0296,Salaried,2025-04-27,09:04:56,Completed,Completed,OTP,116,"Mobile App",yes
+A0297,C0297,Savings,2025-04-28,09:04:57,Rejected,Compliance,Compliance,117,Website,no
+A0298,C0298,Current,2025-04-29,09:04:58,Abandoned,"Video KYC","Video KYC",118,"Mobile App",no
+A0299,C0299,Salaried,2025-04-30,09:04:59,Progress,OCR,OTP,119,Website,no
+A0300,C0300,Savings,2025-05-01,09:05:00,Completed,Completed,OTP,120,"Mobile App",no
+A0301,C0301,Current,2025-05-02,09:05:01,Completed,Completed,OTP,121,Website,no
+A0302,C0302,Salaried,2025-05-03,09:05:02,Completed,Completed,OTP,122,"Mobile App",no
+A0303,C0303,Savings,2025-05-04,09:05:03,Completed,Completed,OTP,123,Website,no
+A0304,C0304,Current,2025-05-05,09:05:04,Completed,Completed,OTP,124,"Mobile App",yes
+A0305,C0305,Salaried,2025-05-06,09:05:05,Completed,Completed,OTP,125,Website,no
+A0306,C0306,Savings,2025-05-07,09:05:06,Completed,Completed,OTP,126,"Mobile App",no
+A0307,C0307,Current,2025-05-08,09:05:07,Rejected,Compliance,Compliance,127,Website,no
+A0308,C0308,Salaried,2025-05-09,09:05:08,Abandoned,"Video KYC","Video KYC",128,"Mobile App",no
+A0309,C0309,Savings,2025-05-10,09:05:09,Progress,OCR,OTP,129,Website,no
+A0310,C0310,Current,2025-05-11,09:05:10,Completed,Completed,OTP,130,"Mobile App",no
+A0311,C0311,Salaried,2025-05-12,09:05:11,Completed,Completed,OTP,131,Website,no
+A0312,C0312,Savings,2025-05-13,09:05:12,Completed,Completed,OTP,132,"Mobile App",yes
+A0313,C0313,Current,2025-05-14,09:05:13,Completed,Completed,OTP,133,Website,no
+A0314,C0314,Salaried,2025-05-15,09:05:14,Completed,Completed,OTP,134,"Mobile App",no
+A0315,C0315,Savings,2025-05-16,09:05:15,Completed,Completed,OTP,135,Website,no
+A0316,C0316,Current,2025-05-17,09:05:16,Completed,Completed,OTP,136,"Mobile App",no
+A0317,C0317,Salaried,2025-05-18,09:05:17,Rejected,Compliance,Compliance,137,Website,no
+A0318,C0318,Savings,2025-05-19,09:05:18,Abandoned,"Video KYC","Video KYC",138,"Mobile App",no
+A0319,C0319,Current,2025-05-20,09:05:19,Progress,OCR,OTP,139,Website,no
+A0320,C0320,Salaried,2025-05-21,09:05:20,Completed,Completed,OTP,140,"Mobile App",yes
+A0321,C0321,Savings,2025-05-22,09:05:21,Completed,Completed,OTP,141,Website,no
+A0322,C0322,Current,2025-05-23,09:05:22,Completed,Completed,OTP,142,"Mobile App",no
+A0323,C0323,Salaried,2025-05-24,09:05:23,Completed,Completed,OTP,143,Website,no
+A0324,C0324,Savings,2025-05-25,09:05:24,Completed,Completed,OTP,144,"Mobile App",no
+A0325,C0325,Current,2025-05-26,09:05:25,Completed,Completed,OTP,145,Website,no
+A0326,C0326,Salaried,2025-05-27,09:05:26,Completed,Completed,OTP,146,"Mobile App",no
+A0327,C0327,Savings,2025-05-28,09:05:27,Rejected,Compliance,Compliance,147,Website,no
+A0328,C0328,Current,2025-05-29,09:05:28,Abandoned,"Video KYC","Video KYC",148,"Mobile App",yes
+A0329,C0329,Salaried,2025-05-30,09:05:29,Progress,OCR,OTP,149,Website,no
+A0330,C0330,Savings,2025-05-31,09:05:30,Completed,Completed,OTP,150,"Mobile App",no
+A0331,C0331,Current,2025-06-01,09:05:31,Completed,Completed,OTP,151,Website,no
+A0332,C0332,Salaried,2025-06-02,09:05:32,Completed,Completed,OTP,152,"Mobile App",no
+A0333,C0333,Savings,2025-06-03,09:05:33,Completed,Completed,OTP,153,Website,no
+A0334,C0334,Current,2025-06-04,09:05:34,Completed,Completed,OTP,154,"Mobile App",no
+A0335,C0335,Salaried,2025-06-05,09:05:35,Completed,Completed,OTP,155,Website,no
+A0336,C0336,Savings,2025-06-06,09:05:36,Completed,Completed,OTP,156,"Mobile App",yes
+A0337,C0337,Current,2025-06-07,09:05:37,Rejected,Compliance,Compliance,157,Website,no
+A0338,C0338,Salaried,2025-06-08,09:05:38,Abandoned,"Video KYC","Video KYC",158,"Mobile App",no
+A0339,C0339,Savings,2025-06-09,09:05:39,Progress,OCR,OTP,159,Website,no
+A0340,C0340,Current,2025-06-10,09:05:40,Completed,Completed,OTP,160,"Mobile App",no
+A0341,C0341,Salaried,2025-06-11,09:05:41,Completed,Completed,OTP,161,Website,no
+A0342,C0342,Savings,2025-06-12,09:05:42,Completed,Completed,OTP,162,"Mobile App",no
+A0343,C0343,Current,2025-06-13,09:05:43,Completed,Completed,OTP,163,Website,no
+A0344,C0344,Salaried,2025-06-14,09:05:44,Completed,Completed,OTP,164,"Mobile App",yes
+A0345,C0345,Savings,2025-06-15,09:05:45,Completed,Completed,OTP,165,Website,no
+A0346,C0346,Current,2025-06-16,09:05:46,Completed,Completed,OTP,166,"Mobile App",no
+A0347,C0347,Salaried,2025-06-17,09:05:47,Rejected,Compliance,Compliance,167,Website,no
+A0348,C0348,Savings,2025-06-18,09:05:48,Abandoned,"Video KYC","Video KYC",168,"Mobile App",no
+A0349,C0349,Current,2025-06-19,09:05:49,Progress,OCR,OTP,169,Website,no
+A0350,C0350,Salaried,2025-06-20,09:05:50,Completed,Completed,OTP,170,"Mobile App",no
+A0351,C0351,Savings,2025-06-21,09:05:51,Completed,Completed,OTP,171,Website,no
+A0352,C0352,Current,2025-06-22,09:05:52,Completed,Completed,OTP,172,"Mobile App",yes
+A0353,C0353,Salaried,2025-06-23,09:05:53,Completed,Completed,OTP,173,Website,no
+A0354,C0354,Savings,2025-06-24,09:05:54,Completed,Completed,OTP,174,"Mobile App",no
+A0355,C0355,Current,2025-06-25,09:05:55,Completed,Completed,OTP,175,Website,no
+A0356,C0356,Salaried,2025-06-26,09:05:56,Completed,Completed,OTP,176,"Mobile App",no
+A0357,C0357,Savings,2025-06-27,09:05:57,Rejected,Compliance,Compliance,177,Website,no
+A0358,C0358,Current,2025-06-28,09:05:58,Abandoned,"Video KYC","Video KYC",178,"Mobile App",no
+A0359,C0359,Salaried,2025-06-29,09:05:59,Progress,OCR,OTP,179,Website,no
+A0360,C0360,Savings,2025-01-01,09:06:00,Completed,Completed,OTP,180,"Mobile App",yes
+A0361,C0361,Current,2025-01-02,09:06:01,Completed,Completed,OTP,181,Website,no
+A0362,C0362,Salaried,2025-01-03,09:06:02,Completed,Completed,OTP,182,"Mobile App",no
+A0363,C0363,Savings,2025-01-04,09:06:03,Completed,Completed,OTP,183,Website,no
+A0364,C0364,Current,2025-01-05,09:06:04,Completed,Completed,OTP,184,"Mobile App",no
+A0365,C0365,Salaried,2025-01-06,09:06:05,Completed,Completed,OTP,185,Website,no
+A0366,C0366,Savings,2025-01-07,09:06:06,Completed,Completed,OTP,186,"Mobile App",no
+A0367,C0367,Current,2025-01-08,09:06:07,Rejected,Compliance,Compliance,187,Website,no
+A0368,C0368,Salaried,2025-01-09,09:06:08,Abandoned,"Video KYC","Video KYC",188,"Mobile App",yes
+A0369,C0369,Savings,2025-01-10,09:06:09,Progress,OCR,OTP,189,Website,no
+A0370,C0370,Current,2025-01-11,09:06:10,Completed,Completed,OTP,190,"Mobile App",no
+A0371,C0371,Salaried,2025-01-12,09:06:11,Completed,Completed,OTP,191,Website,no
+A0372,C0372,Savings,2025-01-13,09:06:12,Completed,Completed,OTP,192,"Mobile App",no
+A0373,C0373,Current,2025-01-14,09:06:13,Completed,Completed,OTP,193,Website,no
+A0374,C0374,Salaried,2025-01-15,09:06:14,Completed,Completed,OTP,194,"Mobile App",no
+A0375,C0375,Savings,2025-01-16,09:06:15,Completed,Completed,OTP,195,Website,no
+A0376,C0376,Current,2025-01-17,09:06:16,Completed,Completed,OTP,196,"Mobile App",yes
+A0377,C0377,Salaried,2025-01-18,09:06:17,Rejected,Compliance,Compliance,197,Website,no
+A0378,C0378,Savings,2025-01-19,09:06:18,Abandoned,"Video KYC","Video KYC",198,"Mobile App",no
+A0379,C0379,Current,2025-01-20,09:06:19,Progress,OCR,OTP,199,Website,no
+A0380,C0380,Salaried,2025-01-21,09:06:20,Completed,Completed,OTP,200,"Mobile App",no
+A0381,C0381,Savings,2025-01-22,09:06:21,Completed,Completed,OTP,201,Website,no
+A0382,C0382,Current,2025-01-23,09:06:22,Completed,Completed,OTP,202,"Mobile App",no
+A0383,C0383,Salaried,2025-01-24,09:06:23,Completed,Completed,OTP,203,Website,no
+A0384,C0384,Savings,2025-01-25,09:06:24,Completed,Completed,OTP,204,"Mobile App",yes
+A0385,C0385,Current,2025-01-26,09:06:25,Completed,Completed,OTP,205,Website,no
+A0386,C0386,Salaried,2025-01-27,09:06:26,Completed,Completed,OTP,206,"Mobile App",no
+A0387,C0387,Savings,2025-01-28,09:06:27,Rejected,Compliance,Compliance,207,Website,no
+A0388,C0388,Current,2025-01-29,09:06:28,Abandoned,"Video KYC","Video KYC",208,"Mobile App",no
+A0389,C0389,Salaried,2025-01-30,09:06:29,Progress,OCR,OTP,209,Website,no
+A0390,C0390,Savings,2025-01-31,09:06:30,Completed,Completed,OTP,210,"Mobile App",no
+A0391,C0391,Current,2025-02-01,09:06:31,Completed,Completed,OTP,211,Website,no
+A0392,C0392,Salaried,2025-02-02,09:06:32,Completed,Completed,OTP,212,"Mobile App",yes
+A0393,C0393,Savings,2025-02-03,09:06:33,Completed,Completed,OTP,213,Website,no
+A0394,C0394,Current,2025-02-04,09:06:34,Completed,Completed,OTP,214,"Mobile App",no
+A0395,C0395,Salaried,2025-02-05,09:06:35,Completed,Completed,OTP,215,Website,no
+A0396,C0396,Savings,2025-02-06,09:06:36,Completed,Completed,OTP,216,"Mobile App",no
+A0397,C0397,Current,2025-02-07,09:06:37,Rejected,Compliance,Compliance,217,Website,no
+A0398,C0398,Salaried,2025-02-08,09:06:38,Abandoned,"Video KYC","Video KYC",218,"Mobile App",no
+A0399,C0399,Savings,2025-02-09,09:06:39,Progress,OCR,OTP,219,Website,no
+A0400,C0400,Current,2025-02-10,09:06:40,Completed,Completed,OTP,220,"Mobile App",yes
+A0401,C0401,Salaried,2025-02-11,09:06:41,Completed,Completed,OTP,221,Website,no
+A0402,C0402,Savings,2025-02-12,09:06:42,Completed,Completed,OTP,222,"Mobile App",no
+A0403,C0403,Current,2025-02-13,09:06:43,Completed,Completed,OTP,223,Website,no
+A0404,C0404,Salaried,2025-02-14,09:06:44,Completed,Completed,OTP,224,"Mobile App",no
+A0405,C0405,Savings,2025-02-15,09:06:45,Completed,Completed,OTP,225,Website,no
+A0406,C0406,Current,2025-02-16,09:06:46,Completed,Completed,OTP,226,"Mobile App",no
+A0407,C0407,Salaried,2025-02-17,09:06:47,Rejected,Compliance,Compliance,227,Website,no
+A0408,C0408,Savings,2025-02-18,09:06:48,Abandoned,"Video KYC","Video KYC",228,"Mobile App",yes
+A0409,C0409,Current,2025-02-19,09:06:49,Progress,OCR,OTP,229,Website,no
+A0410,C0410,Salaried,2025-02-20,09:06:50,Completed,Completed,OTP,230,"Mobile App",no
+A0411,C0411,Savings,2025-02-21,09:06:51,Completed,Completed,OTP,231,Website,no
+A0412,C0412,Current,2025-02-22,09:06:52,Completed,Completed,OTP,232,"Mobile App",no
+A0413,C0413,Salaried,2025-02-23,09:06:53,Completed,Completed,OTP,233,Website,no
+A0414,C0414,Savings,2025-02-24,09:06:54,Completed,Completed,OTP,234,"Mobile App",no
+A0415,C0415,Current,2025-02-25,09:06:55,Completed,Completed,OTP,235,Website,no
+A0416,C0416,Salaried,2025-02-26,09:06:56,Completed,Completed,OTP,236,"Mobile App",yes
+A0417,C0417,Savings,2025-02-27,09:06:57,Rejected,Compliance,Compliance,237,Website,no
+A0418,C0418,Current,2025-02-28,09:06:58,Abandoned,"Video KYC","Video KYC",238,"Mobile App",no
+A0419,C0419,Salaried,2025-03-01,09:06:59,Progress,OCR,OTP,239,Website,no
+A0420,C0420,Savings,2025-03-02,09:07:00,Completed,Completed,OTP,240,"Mobile App",no
+A0421,C0421,Current,2025-03-03,09:07:01,Completed,Completed,OTP,241,Website,no
+A0422,C0422,Salaried,2025-03-04,09:07:02,Completed,Completed,OTP,242,"Mobile App",no
+A0423,C0423,Savings,2025-03-05,09:07:03,Completed,Completed,OTP,243,Website,no
+A0424,C0424,Current,2025-03-06,09:07:04,Completed,Completed,OTP,244,"Mobile App",yes
+A0425,C0425,Salaried,2025-03-07,09:07:05,Completed,Completed,OTP,245,Website,no
+A0426,C0426,Savings,2025-03-08,09:07:06,Completed,Completed,OTP,246,"Mobile App",no
+A0427,C0427,Current,2025-03-09,09:07:07,Rejected,Compliance,Compliance,247,Website,no
+A0428,C0428,Salaried,2025-03-10,09:07:08,Abandoned,"Video KYC","Video KYC",248,"Mobile App",no
+A0429,C0429,Savings,2025-03-11,09:07:09,Progress,OCR,OTP,249,Website,no
+A0430,C0430,Current,2025-03-12,09:07:10,Completed,Completed,OTP,250,"Mobile App",no
+A0431,C0431,Salaried,2025-03-13,09:07:11,Completed,Completed,OTP,251,Website,no
+A0432,C0432,Savings,2025-03-14,09:07:12,Completed,Completed,OTP,252,"Mobile App",yes
+A0433,C0433,Current,2025-03-15,09:07:13,Completed,Completed,OTP,253,Website,no
+A0434,C0434,Salaried,2025-03-16,09:07:14,Completed,Completed,OTP,254,"Mobile App",no
+A0435,C0435,Savings,2025-03-17,09:07:15,Completed,Completed,OTP,255,Website,no
+A0436,C0436,Current,2025-03-18,09:07:16,Completed,Completed,OTP,256,"Mobile App",no
+A0437,C0437,Salaried,2025-03-19,09:07:17,Rejected,Compliance,Compliance,257,Website,no
+A0438,C0438,Savings,2025-03-20,09:07:18,Abandoned,"Video KYC","Video KYC",258,"Mobile App",no
+A0439,C0439,Current,2025-03-21,09:07:19,Progress,OCR,OTP,259,Website,no
+A0440,C0440,Salaried,2025-03-22,09:07:20,Completed,Completed,OTP,260,"Mobile App",yes
+A0441,C0441,Savings,2025-03-23,09:07:21,Completed,Completed,OTP,261,Website,no
+A0442,C0442,Current,2025-03-24,09:07:22,Completed,Completed,OTP,262,"Mobile App",no
+A0443,C0443,Salaried,2025-03-25,09:07:23,Completed,Completed,OTP,263,Website,no
+A0444,C0444,Savings,2025-03-26,09:07:24,Completed,Completed,OTP,264,"Mobile App",no
+A0445,C0445,Current,2025-03-27,09:07:25,Completed,Completed,OTP,265,Website,no
+A0446,C0446,Salaried,2025-03-28,09:07:26,Completed,Completed,OTP,266,"Mobile App",no
+A0447,C0447,Savings,2025-03-29,09:07:27,Rejected,Compliance,Compliance,267,Website,no
+A0448,C0448,Current,2025-03-30,09:07:28,Abandoned,"Video KYC","Video KYC",268,"Mobile App",yes
+A0449,C0449,Salaried,2025-03-31,09:07:29,Progress,OCR,OTP,269,Website,no
+A0450,C0450,Savings,2025-04-01,09:07:30,Completed,Completed,OTP,270,"Mobile App",no
+A0451,C0451,Current,2025-04-02,09:07:31,Completed,Completed,OTP,271,Website,no
+A0452,C0452,Salaried,2025-04-03,09:07:32,Completed,Completed,OTP,272,"Mobile App",no
+A0453,C0453,Savings,2025-04-04,09:07:33,Completed,Completed,OTP,273,Website,no
+A0454,C0454,Current,2025-04-05,09:07:34,Completed,Completed,OTP,274,"Mobile App",no
+A0455,C0455,Salaried,2025-04-06,09:07:35,Completed,Completed,OTP,275,Website,no
+A0456,C0456,Savings,2025-04-07,09:07:36,Completed,Completed,OTP,276,"Mobile App",yes
+A0457,C0457,Current,2025-04-08,09:07:37,Rejected,Compliance,Compliance,277,Website,no
+A0458,C0458,Salaried,2025-04-09,09:07:38,Abandoned,"Video KYC","Video KYC",278,"Mobile App",no
+A0459,C0459,Savings,2025-04-10,09:07:39,Progress,OCR,OTP,279,Website,no
+A0460,C0460,Current,2025-04-11,09:07:40,Completed,Completed,OTP,280,"Mobile App",no
+A0461,C0461,Salaried,2025-04-12,09:07:41,Completed,Completed,OTP,281,Website,no
+A0462,C0462,Savings,2025-04-13,09:07:42,Completed,Completed,OTP,282,"Mobile App",no
+A0463,C0463,Current,2025-04-14,09:07:43,Completed,Completed,OTP,283,Website,no
+A0464,C0464,Salaried,2025-04-15,09:07:44,Completed,Completed,OTP,284,"Mobile App",yes
+A0465,C0465,Savings,2025-04-16,09:07:45,Completed,Completed,OTP,285,Website,no
+A0466,C0466,Current,2025-04-17,09:07:46,Completed,Completed,OTP,286,"Mobile App",no
+A0467,C0467,Salaried,2025-04-18,09:07:47,Rejected,Compliance,Compliance,287,Website,no
+A0468,C0468,Savings,2025-04-19,09:07:48,Abandoned,"Video KYC","Video KYC",288,"Mobile App",no
+A0469,C0469,Current,2025-04-20,09:07:49,Progress,OCR,OTP,289,Website,no
+A0470,C0470,Salaried,2025-04-21,09:07:50,Completed,Completed,OTP,290,"Mobile App",no
+A0471,C0471,Savings,2025-04-22,09:07:51,Completed,Completed,OTP,291,Website,no
+A0472,C0472,Current,2025-04-23,09:07:52,Completed,Completed,OTP,292,"Mobile App",yes
+A0473,C0473,Salaried,2025-04-24,09:07:53,Completed,Completed,OTP,293,Website,no
+A0474,C0474,Savings,2025-04-25,09:07:54,Completed,Completed,OTP,294,"Mobile App",no
+A0475,C0475,Current,2025-04-26,09:07:55,Completed,Completed,OTP,295,Website,no
+A0476,C0476,Salaried,2025-04-27,09:07:56,Completed,Completed,OTP,296,"Mobile App",no
+A0477,C0477,Savings,2025-04-28,09:07:57,Rejected,Compliance,Compliance,297,Website,no
+A0478,C0478,Current,2025-04-29,09:07:58,Abandoned,"Video KYC","Video KYC",298,"Mobile App",no
+A0479,C0479,Salaried,2025-04-30,09:07:59,Progress,OCR,OTP,299,Website,no
+A0480,C0480,Savings,2025-05-01,09:08:00,Completed,Completed,OTP,60,"Mobile App",yes
+A0481,C0481,Current,2025-05-02,09:08:01,Completed,Completed,OTP,61,Website,no
+A0482,C0482,Salaried,2025-05-03,09:08:02,Completed,Completed,OTP,62,"Mobile App",no
+A0483,C0483,Savings,2025-05-04,09:08:03,Completed,Completed,OTP,63,Website,no
+A0484,C0484,Current,2025-05-05,09:08:04,Completed,Completed,OTP,64,"Mobile App",no
+A0485,C0485,Salaried,2025-05-06,09:08:05,Completed,Completed,OTP,65,Website,no
+A0486,C0486,Savings,2025-05-07,09:08:06,Completed,Completed,OTP,66,"Mobile App",no
+A0487,C0487,Current,2025-05-08,09:08:07,Rejected,Compliance,Compliance,67,Website,no
+A0488,C0488,Salaried,2025-05-09,09:08:08,Abandoned,"Video KYC","Video KYC",68,"Mobile App",yes
+A0489,C0489,Savings,2025-05-10,09:08:09,Progress,OCR,OTP,69,Website,no
+A0490,C0490,Current,2025-05-11,09:08:10,Completed,Completed,OTP,70,"Mobile App",no
+A0491,C0491,Salaried,2025-05-12,09:08:11,Completed,Completed,OTP,71,Website,no
+A0492,C0492,Savings,2025-05-13,09:08:12,Completed,Completed,OTP,72,"Mobile App",no
+A0493,C0493,Current,2025-05-14,09:08:13,Completed,Completed,OTP,73,Website,no
+A0494,C0494,Salaried,2025-05-15,09:08:14,Completed,Completed,OTP,74,"Mobile App",no
+A0495,C0495,Savings,2025-05-16,09:08:15,Completed,Completed,OTP,75,Website,no
+A0496,C0496,Current,2025-05-17,09:08:16,Completed,Completed,OTP,76,"Mobile App",yes
+A0497,C0497,Salaried,2025-05-18,09:08:17,Rejected,Compliance,Compliance,77,Website,no
+A0498,C0498,Savings,2025-05-19,09:08:18,Abandoned,"Video KYC","Video KYC",78,"Mobile App",no
+A0499,C0499,Current,2025-05-20,09:08:19,Progress,OCR,OTP,79,Website,no
+A0500,C0500,Salaried,2025-05-21,09:08:20,Completed,Completed,OTP,80,"Mobile App",no
