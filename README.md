@@ -22,6 +22,12 @@ The objective was to identify the stages causing maximum drop-offs and recommend
 
 ---
 
+## Documentation
+- [Business Requirements Document (BRD)](BRD.md)
+- [UAT Test Cases](UAT_Test_Cases.md)
+
+---
+
 ## Tools Used
 
 - MySQL
