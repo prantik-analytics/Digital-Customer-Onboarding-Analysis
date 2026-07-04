@@ -16,6 +16,12 @@ The objective was to identify the stages causing maximum drop-offs and recommend
 
 ---
 
+## Dashboard Preview
+
+![Digital Customer Onboarding Dashboard](dashboard.png)
+
+---
+
 ## Tools Used
 
 - MySQL
